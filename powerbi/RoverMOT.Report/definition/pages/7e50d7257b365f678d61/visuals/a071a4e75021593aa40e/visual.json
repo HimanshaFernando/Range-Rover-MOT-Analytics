@@ -1,0 +1,76 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "a071a4e75021593aa40e",
+  "position": {
+    "x": 770,
+    "y": 140,
+    "z": 910,
+    "width": 500,
+    "height": 290
+  },
+  "visual": {
+    "visualType": "barChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "family"
+                }
+              },
+              "queryRef": "Cohorts.family",
+              "nativeQueryRef": "family"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Initial tests"
+                }
+              },
+              "queryRef": "Cohorts.Initial tests",
+              "nativeQueryRef": "Initial tests"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Initial inspections by model'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

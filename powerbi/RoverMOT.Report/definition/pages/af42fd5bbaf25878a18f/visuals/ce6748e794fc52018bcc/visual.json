@@ -1,0 +1,114 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "ce6748e794fc52018bcc",
+  "position": {
+    "x": 10,
+    "y": 140,
+    "z": 150,
+    "width": 1260,
+    "height": 540
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Category"
+                    }
+                  },
+                  "Property": "Name"
+                }
+              },
+              "queryRef": "Category.Name",
+              "nativeQueryRef": "Name"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Initial tests"
+                }
+              },
+              "queryRef": "Cohorts.Initial tests",
+              "nativeQueryRef": "Initial tests"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Defects"
+                    }
+                  },
+                  "Property": "Affected per 1,000"
+                }
+              },
+              "queryRef": "Defects.Affected per 1,000",
+              "nativeQueryRef": "Affected per 1,000"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Defects"
+                    }
+                  },
+                  "Property": "Scenario inspections"
+                }
+              },
+              "queryRef": "Defects.Scenario inspections",
+              "nativeQueryRef": "Scenario inspections"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Defects"
+                    }
+                  },
+                  "Property": "Expected affected inspections"
+                }
+              },
+              "queryRef": "Defects.Expected affected inspections",
+              "nativeQueryRef": "Expected affected inspections"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Illustrative workload from observed rates | default volume 200'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

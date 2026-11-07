@@ -1,0 +1,8 @@
+raw/
+__pycache__/
+*.pyc
+.venv/
+*.duckdb*
+*.pbix
+**/.pbi/
+.env

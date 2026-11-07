@@ -1,0 +1,58 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "1f2fe69cdd9a54acb69d",
+  "position": {
+    "x": 640,
+    "y": 8,
+    "z": 648,
+    "width": 300,
+    "height": 117
+  },
+  "visual": {
+    "visualType": "slicer",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "mileage_band"
+                }
+              },
+              "queryRef": "Cohorts.mileage_band",
+              "nativeQueryRef": "mileage_band"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Mileage band'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

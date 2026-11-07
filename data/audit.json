@@ -1,0 +1,97 @@
+{
+  "years": [
+    2024,
+    2025
+  ],
+  "months_requested": [
+    1,
+    2,
+    3
+  ],
+  "members": [
+    {
+      "archive": "dft_test_result_extracts_2024.zip",
+      "member": "dft_test_result_extracts_2024/dft_test_result_extract_202401.csv",
+      "bytes": 424125972,
+      "crc32": "da8f960c"
+    },
+    {
+      "archive": "dft_test_result_extracts_2024.zip",
+      "member": "dft_test_result_extracts_2024/dft_test_result_extract_202402.csv",
+      "bytes": 404159340,
+      "crc32": "9e7cabe8"
+    },
+    {
+      "archive": "dft_test_result_extracts_2024.zip",
+      "member": "dft_test_result_extracts_2024/dft_test_result_extract_202403.csv",
+      "bytes": 455448924,
+      "crc32": "a768d821"
+    },
+    {
+      "archive": "dft_test_result_extracts_2025.zip",
+      "member": "dft_test_result_extracts_2025/dft_test_result_extract_202501.csv",
+      "bytes": 421376936,
+      "crc32": "cab631ec"
+    },
+    {
+      "archive": "dft_test_result_extracts_2025.zip",
+      "member": "dft_test_result_extracts_2025/dft_test_result_extract_202502.csv",
+      "bytes": 394120028,
+      "crc32": "aa1b93a8"
+    },
+    {
+      "archive": "dft_test_result_extracts_2025.zip",
+      "member": "dft_test_result_extracts_2025/dft_test_result_extract_202503.csv",
+      "bytes": 474896299,
+      "crc32": "61af8e0a"
+    },
+    {
+      "archive": "dft_test_item_extracts_2024.zip",
+      "member": "dft_test_item_extracts_2024/dft_test_item_extract_202401.csv",
+      "bytes": 396700763,
+      "crc32": "94a4b173"
+    },
+    {
+      "archive": "dft_test_item_extracts_2024.zip",
+      "member": "dft_test_item_extracts_2024/dft_test_item_extract_202402.csv",
+      "bytes": 365507399,
+      "crc32": "2ce65637"
+    },
+    {
+      "archive": "dft_test_item_extracts_2024.zip",
+      "member": "dft_test_item_extracts_2024/dft_test_item_extract_202403.csv",
+      "bytes": 394934266,
+      "crc32": "70bb9580"
+    },
+    {
+      "archive": "dft_test_item_extracts_2025.zip",
+      "member": "dft_test_item_extracts_2025/dft_test_item_extract_202501.csv",
+      "bytes": 385858982,
+      "crc32": "a7523a50"
+    },
+    {
+      "archive": "dft_test_item_extracts_2025.zip",
+      "member": "dft_test_item_extracts_2025/dft_test_item_extract_202502.csv",
+      "bytes": 358092967,
+      "crc32": "8cd885d6"
+    },
+    {
+      "archive": "dft_test_item_extracts_2025.zip",
+      "member": "dft_test_item_extracts_2025/dft_test_item_extract_202503.csv",
+      "bytes": 420912232,
+      "crc32": "4c62cb37"
+    }
+  ],
+  "eligible_tests": 238894,
+  "initial_fails": 43674,
+  "failed_tests_without_linked_failure_item": 0,
+  "unmapped_defect_items": 0,
+  "distinct_tests_in_categories": 43674,
+  "hashes": {
+    "model_mapping.csv": "d69de9fb87c009e8c4e71735cb70dd8ea1529e7b6d76e346d77007ff3226a42f",
+    "comparison.csv": "60a20fafe56ded2d6214b355c7b74e3f57e5d99eaa3a2e9640c36a3c889950d8",
+    "categories.csv": "f673446249edddf04c4217b08b6a6a3346f38079250d24f881ac6ce8db359601",
+    "reasons.csv": "423ebafa62a7345d0f463b5906d660cb560e9f3f7caa8a64560dc5e13394c93b",
+    "cohorts.csv": "e27af9a9652e6264e96e9cc765cf4c367ff515d9fc235d5f26d7cc753c81da7c"
+  }
+}

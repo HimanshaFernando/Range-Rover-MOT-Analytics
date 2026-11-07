@@ -1,0 +1,114 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "ed185c165a2f5728a6b7",
+  "position": {
+    "x": 10,
+    "y": 425,
+    "z": 435,
+    "width": 1260,
+    "height": 266
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "family"
+                }
+              },
+              "queryRef": "Comparison.family",
+              "nativeQueryRef": "family"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "Observed rate"
+                }
+              },
+              "queryRef": "Comparison.Observed rate",
+              "nativeQueryRef": "Observed rate"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "Standardised rate"
+                }
+              },
+              "queryRef": "Comparison.Standardised rate",
+              "nativeQueryRef": "Standardised rate"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "Share on common support"
+                }
+              },
+              "queryRef": "Comparison.Share on common support",
+              "nativeQueryRef": "Share on common support"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "Eligible common strata"
+                }
+              },
+              "queryRef": "Comparison.Eligible common strata",
+              "nativeQueryRef": "Eligible common strata"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Observed vs adjusted | pooled weights, common strata only'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

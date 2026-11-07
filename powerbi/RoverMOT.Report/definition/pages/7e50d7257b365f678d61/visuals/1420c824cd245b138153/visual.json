@@ -1,0 +1,114 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "1420c824cd245b138153",
+  "position": {
+    "x": 10,
+    "y": 445,
+    "z": 455,
+    "width": 1260,
+    "height": 254
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "family"
+                }
+              },
+              "queryRef": "Cohorts.family",
+              "nativeQueryRef": "family"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Initial tests"
+                }
+              },
+              "queryRef": "Cohorts.Initial tests",
+              "nativeQueryRef": "Initial tests"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Initially failed"
+                }
+              },
+              "queryRef": "Cohorts.Initially failed",
+              "nativeQueryRef": "Initially failed"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Passed after rectification"
+                }
+              },
+              "queryRef": "Cohorts.Passed after rectification",
+              "nativeQueryRef": "Passed after rectification"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cohorts"
+                    }
+                  },
+                  "Property": "Initial failure rate"
+                }
+              },
+              "queryRef": "Cohorts.Initial failure rate",
+              "nativeQueryRef": "Initial failure rate"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Volume, failures and rectification by model'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

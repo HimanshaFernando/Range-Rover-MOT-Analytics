@@ -1,0 +1,58 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "de88372cd109511a8089",
+  "position": {
+    "x": 480,
+    "y": 8,
+    "z": 488,
+    "width": 550,
+    "height": 117
+  },
+  "visual": {
+    "visualType": "slicer",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Basis"
+                    }
+                  },
+                  "Property": "Method"
+                }
+              },
+              "queryRef": "Basis.Method",
+              "nativeQueryRef": "Method"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Comparison basis'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

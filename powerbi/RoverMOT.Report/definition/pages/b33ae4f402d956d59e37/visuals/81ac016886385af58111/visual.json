@@ -1,0 +1,76 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.1.0/schema.json",
+  "name": "81ac016886385af58111",
+  "position": {
+    "x": 10,
+    "y": 140,
+    "z": 150,
+    "width": 1260,
+    "height": 268
+  },
+  "visual": {
+    "visualType": "barChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "family"
+                }
+              },
+              "queryRef": "Comparison.family",
+              "nativeQueryRef": "family"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Comparison"
+                    }
+                  },
+                  "Property": "Selected comparison rate"
+                }
+              },
+              "queryRef": "Comparison.Selected comparison rate",
+              "nativeQueryRef": "Selected comparison rate"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Failure rate on selected basis'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

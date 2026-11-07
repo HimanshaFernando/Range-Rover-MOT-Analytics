@@ -1,0 +1,340 @@
+cohort_id,month,family,age_band,mileage_band,tests,initial_fails,prs
+1,2024-01,Evoque,0-4 years,0-39k,3217,350,66
+2,2024-01,Evoque,0-4 years,120k+,1,0,0
+3,2024-01,Evoque,0-4 years,40-79k,788,110,21
+4,2024-01,Evoque,0-4 years,80-119k,20,2,0
+5,2024-01,Evoque,10-14 years,0-39k,51,6,0
+6,2024-01,Evoque,10-14 years,120k+,583,191,23
+7,2024-01,Evoque,10-14 years,40-79k,773,141,22
+8,2024-01,Evoque,10-14 years,80-119k,1412,356,52
+9,2024-01,Evoque,5-9 years,0-39k,1456,161,34
+10,2024-01,Evoque,5-9 years,120k+,230,66,11
+11,2024-01,Evoque,5-9 years,40-79k,5319,852,147
+12,2024-01,Evoque,5-9 years,80-119k,1780,393,63
+13,2024-01,Evoque,5-9 years,Unknown,1,0,0
+14,2024-01,Range Rover,0-4 years,0-39k,569,59,16
+15,2024-01,Range Rover,0-4 years,40-79k,365,51,10
+16,2024-01,Range Rover,0-4 years,80-119k,15,4,0
+17,2024-01,Range Rover,10-14 years,0-39k,43,6,1
+18,2024-01,Range Rover,10-14 years,120k+,719,192,21
+19,2024-01,Range Rover,10-14 years,40-79k,533,85,16
+20,2024-01,Range Rover,10-14 years,80-119k,1166,271,35
+21,2024-01,Range Rover,15+ years,0-39k,25,4,0
+22,2024-01,Range Rover,15+ years,120k+,1635,540,93
+23,2024-01,Range Rover,15+ years,40-79k,144,39,5
+24,2024-01,Range Rover,15+ years,80-119k,592,161,15
+25,2024-01,Range Rover,15+ years,Unknown,47,20,2
+26,2024-01,Range Rover,5-9 years,0-39k,296,35,2
+27,2024-01,Range Rover,5-9 years,120k+,150,29,6
+28,2024-01,Range Rover,5-9 years,40-79k,1371,220,25
+29,2024-01,Range Rover,5-9 years,80-119k,798,172,20
+30,2024-01,Range Rover Sport,0-4 years,0-39k,1389,143,35
+31,2024-01,Range Rover Sport,0-4 years,120k+,6,0,0
+32,2024-01,Range Rover Sport,0-4 years,40-79k,712,98,16
+33,2024-01,Range Rover Sport,0-4 years,80-119k,27,6,1
+34,2024-01,Range Rover Sport,10-14 years,0-39k,34,2,1
+35,2024-01,Range Rover Sport,10-14 years,120k+,798,230,32
+36,2024-01,Range Rover Sport,10-14 years,40-79k,554,113,13
+37,2024-01,Range Rover Sport,10-14 years,80-119k,1429,342,43
+38,2024-01,Range Rover Sport,10-14 years,Unknown,2,2,0
+39,2024-01,Range Rover Sport,15+ years,0-39k,9,0,0
+40,2024-01,Range Rover Sport,15+ years,120k+,1274,430,82
+41,2024-01,Range Rover Sport,15+ years,40-79k,107,32,6
+42,2024-01,Range Rover Sport,15+ years,80-119k,580,176,35
+43,2024-01,Range Rover Sport,15+ years,Unknown,4,3,1
+44,2024-01,Range Rover Sport,5-9 years,0-39k,599,74,16
+45,2024-01,Range Rover Sport,5-9 years,120k+,161,27,5
+46,2024-01,Range Rover Sport,5-9 years,40-79k,2695,452,66
+47,2024-01,Range Rover Sport,5-9 years,80-119k,1281,281,42
+48,2024-01,Range Rover Sport,5-9 years,Unknown,2,1,0
+49,2024-01,Velar,0-4 years,0-39k,913,131,36
+50,2024-01,Velar,0-4 years,40-79k,471,82,14
+51,2024-01,Velar,0-4 years,80-119k,16,4,1
+52,2024-01,Velar,5-9 years,0-39k,363,49,10
+53,2024-01,Velar,5-9 years,40-79k,761,130,28
+54,2024-01,Velar,5-9 years,80-119k,58,12,1
+55,2024-02,Evoque,0-4 years,0-39k,4173,438,60
+56,2024-02,Evoque,0-4 years,120k+,1,0,0
+57,2024-02,Evoque,0-4 years,40-79k,891,184,32
+58,2024-02,Evoque,0-4 years,80-119k,20,4,0
+59,2024-02,Evoque,10-14 years,0-39k,85,7,0
+60,2024-02,Evoque,10-14 years,120k+,496,148,22
+61,2024-02,Evoque,10-14 years,40-79k,754,151,19
+62,2024-02,Evoque,10-14 years,80-119k,1294,338,49
+63,2024-02,Evoque,15+ years,80-119k,3,1,0
+64,2024-02,Evoque,5-9 years,0-39k,1522,154,26
+65,2024-02,Evoque,5-9 years,120k+,189,51,9
+66,2024-02,Evoque,5-9 years,40-79k,5049,800,134
+67,2024-02,Evoque,5-9 years,80-119k,1664,334,45
+68,2024-02,Range Rover,0-4 years,0-39k,712,68,12
+69,2024-02,Range Rover,0-4 years,120k+,1,0,0
+70,2024-02,Range Rover,0-4 years,40-79k,401,44,4
+71,2024-02,Range Rover,0-4 years,80-119k,16,5,1
+72,2024-02,Range Rover,10-14 years,0-39k,45,4,0
+73,2024-02,Range Rover,10-14 years,120k+,636,202,29
+74,2024-02,Range Rover,10-14 years,40-79k,400,67,11
+75,2024-02,Range Rover,10-14 years,80-119k,977,246,24
+76,2024-02,Range Rover,15+ years,0-39k,20,1,0
+77,2024-02,Range Rover,15+ years,120k+,1493,493,47
+78,2024-02,Range Rover,15+ years,40-79k,139,36,5
+79,2024-02,Range Rover,15+ years,80-119k,609,182,20
+80,2024-02,Range Rover,15+ years,Unknown,42,16,0
+81,2024-02,Range Rover,5-9 years,0-39k,281,39,4
+82,2024-02,Range Rover,5-9 years,120k+,133,27,5
+83,2024-02,Range Rover,5-9 years,40-79k,1252,190,20
+84,2024-02,Range Rover,5-9 years,80-119k,700,136,17
+85,2024-02,Range Rover Sport,0-4 years,0-39k,1656,177,31
+86,2024-02,Range Rover Sport,0-4 years,40-79k,736,99,23
+87,2024-02,Range Rover Sport,0-4 years,80-119k,28,2,1
+88,2024-02,Range Rover Sport,10-14 years,0-39k,26,4,1
+89,2024-02,Range Rover Sport,10-14 years,120k+,657,191,24
+90,2024-02,Range Rover Sport,10-14 years,40-79k,500,96,19
+91,2024-02,Range Rover Sport,10-14 years,80-119k,1180,282,41
+92,2024-02,Range Rover Sport,10-14 years,Unknown,1,0,0
+93,2024-02,Range Rover Sport,15+ years,0-39k,8,2,1
+94,2024-02,Range Rover Sport,15+ years,120k+,1124,370,63
+95,2024-02,Range Rover Sport,15+ years,40-79k,114,31,5
+96,2024-02,Range Rover Sport,15+ years,80-119k,490,157,37
+97,2024-02,Range Rover Sport,15+ years,Unknown,3,0,0
+98,2024-02,Range Rover Sport,5-9 years,0-39k,576,52,9
+99,2024-02,Range Rover Sport,5-9 years,120k+,148,32,2
+100,2024-02,Range Rover Sport,5-9 years,40-79k,2617,415,63
+101,2024-02,Range Rover Sport,5-9 years,80-119k,1155,240,41
+102,2024-02,Range Rover Sport,5-9 years,Unknown,1,0,0
+103,2024-02,Velar,0-4 years,0-39k,1062,142,43
+104,2024-02,Velar,0-4 years,40-79k,567,96,22
+105,2024-02,Velar,0-4 years,80-119k,17,6,0
+106,2024-02,Velar,5-9 years,0-39k,316,54,10
+107,2024-02,Velar,5-9 years,120k+,1,0,0
+108,2024-02,Velar,5-9 years,40-79k,785,151,20
+109,2024-02,Velar,5-9 years,80-119k,52,3,1
+110,2024-03,Evoque,0-4 years,0-39k,5217,603,103
+111,2024-03,Evoque,0-4 years,120k+,1,0,0
+112,2024-03,Evoque,0-4 years,40-79k,1173,196,27
+113,2024-03,Evoque,0-4 years,80-119k,16,5,0
+114,2024-03,Evoque,10-14 years,0-39k,88,14,2
+115,2024-03,Evoque,10-14 years,120k+,526,146,23
+116,2024-03,Evoque,10-14 years,40-79k,879,186,29
+117,2024-03,Evoque,10-14 years,80-119k,1455,394,65
+118,2024-03,Evoque,5-9 years,0-39k,1804,216,37
+119,2024-03,Evoque,5-9 years,120k+,219,53,6
+120,2024-03,Evoque,5-9 years,40-79k,5755,883,167
+121,2024-03,Evoque,5-9 years,80-119k,1787,383,68
+122,2024-03,Evoque,5-9 years,Unknown,1,0,0
+123,2024-03,Range Rover,0-4 years,0-39k,825,83,11
+124,2024-03,Range Rover,0-4 years,120k+,3,0,0
+125,2024-03,Range Rover,0-4 years,40-79k,409,42,6
+126,2024-03,Range Rover,0-4 years,80-119k,28,2,1
+127,2024-03,Range Rover,0-4 years,Unknown,1,0,0
+128,2024-03,Range Rover,10-14 years,0-39k,41,3,1
+129,2024-03,Range Rover,10-14 years,120k+,623,187,24
+130,2024-03,Range Rover,10-14 years,40-79k,459,78,11
+131,2024-03,Range Rover,10-14 years,80-119k,997,224,25
+132,2024-03,Range Rover,15+ years,0-39k,32,4,0
+133,2024-03,Range Rover,15+ years,120k+,1430,442,67
+134,2024-03,Range Rover,15+ years,40-79k,124,29,6
+135,2024-03,Range Rover,15+ years,80-119k,490,143,18
+136,2024-03,Range Rover,15+ years,Unknown,46,18,3
+137,2024-03,Range Rover,5-9 years,0-39k,364,43,3
+138,2024-03,Range Rover,5-9 years,120k+,121,26,2
+139,2024-03,Range Rover,5-9 years,40-79k,1424,215,26
+140,2024-03,Range Rover,5-9 years,80-119k,701,133,10
+141,2024-03,Range Rover Sport,0-4 years,0-39k,2053,222,36
+142,2024-03,Range Rover Sport,0-4 years,40-79k,866,109,26
+143,2024-03,Range Rover Sport,0-4 years,80-119k,33,3,0
+144,2024-03,Range Rover Sport,10-14 years,0-39k,33,5,0
+145,2024-03,Range Rover Sport,10-14 years,120k+,674,175,21
+146,2024-03,Range Rover Sport,10-14 years,40-79k,532,109,25
+147,2024-03,Range Rover Sport,10-14 years,80-119k,1242,292,40
+148,2024-03,Range Rover Sport,10-14 years,Unknown,2,0,0
+149,2024-03,Range Rover Sport,15+ years,0-39k,9,1,1
+150,2024-03,Range Rover Sport,15+ years,120k+,1038,321,61
+151,2024-03,Range Rover Sport,15+ years,40-79k,91,25,5
+152,2024-03,Range Rover Sport,15+ years,80-119k,488,147,32
+153,2024-03,Range Rover Sport,15+ years,Unknown,2,1,0
+154,2024-03,Range Rover Sport,5-9 years,0-39k,736,78,9
+155,2024-03,Range Rover Sport,5-9 years,120k+,149,37,4
+156,2024-03,Range Rover Sport,5-9 years,40-79k,2888,422,72
+157,2024-03,Range Rover Sport,5-9 years,80-119k,1195,241,37
+158,2024-03,Velar,0-4 years,0-39k,1304,161,52
+159,2024-03,Velar,0-4 years,40-79k,614,118,27
+160,2024-03,Velar,0-4 years,80-119k,21,3,0
+161,2024-03,Velar,0-4 years,Unknown,1,0,0
+162,2024-03,Velar,5-9 years,0-39k,478,74,17
+163,2024-03,Velar,5-9 years,120k+,2,1,0
+164,2024-03,Velar,5-9 years,40-79k,954,148,24
+165,2024-03,Velar,5-9 years,80-119k,72,16,1
+166,2025-01,Evoque,0-4 years,0-39k,2328,226,37
+167,2025-01,Evoque,0-4 years,40-79k,808,123,17
+168,2025-01,Evoque,0-4 years,80-119k,27,7,2
+169,2025-01,Evoque,0-4 years,Unknown,1,0,0
+170,2025-01,Evoque,10-14 years,0-39k,88,12,3
+171,2025-01,Evoque,10-14 years,120k+,939,273,48
+172,2025-01,Evoque,10-14 years,40-79k,1128,212,36
+173,2025-01,Evoque,10-14 years,80-119k,2215,566,81
+174,2025-01,Evoque,10-14 years,Unknown,1,1,0
+175,2025-01,Evoque,5-9 years,0-39k,1854,233,40
+176,2025-01,Evoque,5-9 years,120k+,174,43,6
+177,2025-01,Evoque,5-9 years,40-79k,5449,837,151
+178,2025-01,Evoque,5-9 years,80-119k,1775,358,59
+179,2025-01,Evoque,5-9 years,Unknown,2,1,0
+180,2025-01,Range Rover,0-4 years,0-39k,391,26,4
+181,2025-01,Range Rover,0-4 years,120k+,2,1,0
+182,2025-01,Range Rover,0-4 years,40-79k,277,30,7
+183,2025-01,Range Rover,0-4 years,80-119k,10,1,0
+184,2025-01,Range Rover,10-14 years,0-39k,47,1,0
+185,2025-01,Range Rover,10-14 years,120k+,777,213,31
+186,2025-01,Range Rover,10-14 years,40-79k,559,99,13
+187,2025-01,Range Rover,10-14 years,80-119k,1244,259,30
+188,2025-01,Range Rover,15+ years,0-39k,23,2,0
+189,2025-01,Range Rover,15+ years,120k+,1476,437,57
+190,2025-01,Range Rover,15+ years,40-79k,147,35,2
+191,2025-01,Range Rover,15+ years,80-119k,578,155,19
+192,2025-01,Range Rover,15+ years,Unknown,37,17,1
+193,2025-01,Range Rover,5-9 years,0-39k,272,26,6
+194,2025-01,Range Rover,5-9 years,120k+,134,24,6
+195,2025-01,Range Rover,5-9 years,40-79k,1323,195,24
+196,2025-01,Range Rover,5-9 years,80-119k,735,128,12
+197,2025-01,Range Rover,5-9 years,Unknown,1,0,0
+198,2025-01,Range Rover Sport,0-4 years,0-39k,1198,104,23
+199,2025-01,Range Rover Sport,0-4 years,120k+,2,1,0
+200,2025-01,Range Rover Sport,0-4 years,40-79k,592,88,18
+201,2025-01,Range Rover Sport,0-4 years,80-119k,23,3,2
+202,2025-01,Range Rover Sport,10-14 years,0-39k,33,1,0
+203,2025-01,Range Rover Sport,10-14 years,120k+,789,190,28
+204,2025-01,Range Rover Sport,10-14 years,40-79k,571,98,10
+205,2025-01,Range Rover Sport,10-14 years,80-119k,1491,333,45
+206,2025-01,Range Rover Sport,10-14 years,Unknown,1,0,0
+207,2025-01,Range Rover Sport,15+ years,0-39k,8,0,0
+208,2025-01,Range Rover Sport,15+ years,120k+,1350,434,104
+209,2025-01,Range Rover Sport,15+ years,40-79k,115,23,6
+210,2025-01,Range Rover Sport,15+ years,80-119k,559,175,32
+211,2025-01,Range Rover Sport,15+ years,Unknown,1,1,0
+212,2025-01,Range Rover Sport,5-9 years,0-39k,627,61,12
+213,2025-01,Range Rover Sport,5-9 years,120k+,162,37,5
+214,2025-01,Range Rover Sport,5-9 years,40-79k,2665,392,54
+215,2025-01,Range Rover Sport,5-9 years,80-119k,1204,252,36
+216,2025-01,Velar,0-4 years,0-39k,548,68,24
+217,2025-01,Velar,0-4 years,120k+,2,0,0
+218,2025-01,Velar,0-4 years,40-79k,314,58,10
+219,2025-01,Velar,0-4 years,80-119k,14,1,1
+220,2025-01,Velar,5-9 years,0-39k,420,40,12
+221,2025-01,Velar,5-9 years,120k+,7,1,0
+222,2025-01,Velar,5-9 years,40-79k,1303,207,43
+223,2025-01,Velar,5-9 years,80-119k,161,27,7
+224,2025-02,Evoque,0-4 years,0-39k,2956,299,45
+225,2025-02,Evoque,0-4 years,40-79k,926,132,14
+226,2025-02,Evoque,0-4 years,80-119k,34,10,0
+227,2025-02,Evoque,10-14 years,0-39k,85,10,1
+228,2025-02,Evoque,10-14 years,120k+,784,248,42
+229,2025-02,Evoque,10-14 years,40-79k,1040,205,34
+230,2025-02,Evoque,10-14 years,80-119k,1927,478,58
+231,2025-02,Evoque,10-14 years,Unknown,2,2,0
+232,2025-02,Evoque,15+ years,80-119k,1,0,0
+233,2025-02,Evoque,5-9 years,0-39k,1720,214,44
+234,2025-02,Evoque,5-9 years,120k+,164,35,7
+235,2025-02,Evoque,5-9 years,40-79k,4863,800,144
+236,2025-02,Evoque,5-9 years,80-119k,1653,330,55
+237,2025-02,Evoque,5-9 years,Unknown,3,0,0
+238,2025-02,Range Rover,0-4 years,0-39k,380,36,8
+239,2025-02,Range Rover,0-4 years,40-79k,295,41,8
+240,2025-02,Range Rover,0-4 years,80-119k,13,2,0
+241,2025-02,Range Rover,10-14 years,0-39k,41,7,0
+242,2025-02,Range Rover,10-14 years,120k+,655,176,21
+243,2025-02,Range Rover,10-14 years,40-79k,414,82,8
+244,2025-02,Range Rover,10-14 years,80-119k,997,208,31
+245,2025-02,Range Rover,10-14 years,Unknown,1,1,0
+246,2025-02,Range Rover,15+ years,0-39k,22,5,1
+247,2025-02,Range Rover,15+ years,120k+,1317,399,60
+248,2025-02,Range Rover,15+ years,40-79k,124,29,4
+249,2025-02,Range Rover,15+ years,80-119k,519,149,20
+250,2025-02,Range Rover,15+ years,Unknown,38,14,3
+251,2025-02,Range Rover,5-9 years,0-39k,266,31,2
+252,2025-02,Range Rover,5-9 years,120k+,126,33,4
+253,2025-02,Range Rover,5-9 years,40-79k,1210,163,14
+254,2025-02,Range Rover,5-9 years,80-119k,594,108,10
+255,2025-02,Range Rover Sport,0-4 years,0-39k,1363,137,25
+256,2025-02,Range Rover Sport,0-4 years,40-79k,669,87,23
+257,2025-02,Range Rover Sport,0-4 years,80-119k,21,1,0
+258,2025-02,Range Rover Sport,10-14 years,0-39k,46,4,0
+259,2025-02,Range Rover Sport,10-14 years,120k+,622,162,30
+260,2025-02,Range Rover Sport,10-14 years,40-79k,546,96,8
+261,2025-02,Range Rover Sport,10-14 years,80-119k,1358,306,38
+262,2025-02,Range Rover Sport,10-14 years,Unknown,1,0,0
+263,2025-02,Range Rover Sport,15+ years,0-39k,10,1,0
+264,2025-02,Range Rover Sport,15+ years,120k+,1195,429,92
+265,2025-02,Range Rover Sport,15+ years,40-79k,116,32,9
+266,2025-02,Range Rover Sport,15+ years,80-119k,550,178,36
+267,2025-02,Range Rover Sport,15+ years,Unknown,8,4,0
+268,2025-02,Range Rover Sport,5-9 years,0-39k,640,66,11
+269,2025-02,Range Rover Sport,5-9 years,120k+,141,31,1
+270,2025-02,Range Rover Sport,5-9 years,40-79k,2570,393,60
+271,2025-02,Range Rover Sport,5-9 years,80-119k,1125,207,21
+272,2025-02,Velar,0-4 years,0-39k,634,64,22
+273,2025-02,Velar,0-4 years,120k+,2,0,0
+274,2025-02,Velar,0-4 years,40-79k,376,55,15
+275,2025-02,Velar,0-4 years,80-119k,13,1,0
+276,2025-02,Velar,5-9 years,0-39k,391,51,13
+277,2025-02,Velar,5-9 years,120k+,8,3,0
+278,2025-02,Velar,5-9 years,40-79k,1232,213,31
+279,2025-02,Velar,5-9 years,80-119k,167,30,4
+280,2025-03,Evoque,0-4 years,0-39k,3574,365,26
+281,2025-03,Evoque,0-4 years,120k+,2,0,0
+282,2025-03,Evoque,0-4 years,40-79k,1053,159,21
+283,2025-03,Evoque,0-4 years,80-119k,30,4,0
+284,2025-03,Evoque,0-4 years,Unknown,1,0,0
+285,2025-03,Evoque,10-14 years,0-39k,114,15,4
+286,2025-03,Evoque,10-14 years,120k+,911,266,37
+287,2025-03,Evoque,10-14 years,40-79k,1268,235,34
+288,2025-03,Evoque,10-14 years,80-119k,2205,572,97
+289,2025-03,Evoque,10-14 years,Unknown,1,1,0
+290,2025-03,Evoque,5-9 years,0-39k,2492,287,43
+291,2025-03,Evoque,5-9 years,120k+,221,40,12
+292,2025-03,Evoque,5-9 years,40-79k,6007,979,164
+293,2025-03,Evoque,5-9 years,80-119k,1834,371,56
+294,2025-03,Evoque,5-9 years,Unknown,1,0,0
+295,2025-03,Range Rover,0-4 years,0-39k,488,46,3
+296,2025-03,Range Rover,0-4 years,120k+,3,1,0
+297,2025-03,Range Rover,0-4 years,40-79k,320,39,9
+298,2025-03,Range Rover,0-4 years,80-119k,21,2,0
+299,2025-03,Range Rover,10-14 years,0-39k,53,6,0
+300,2025-03,Range Rover,10-14 years,120k+,727,198,24
+301,2025-03,Range Rover,10-14 years,40-79k,503,87,9
+302,2025-03,Range Rover,10-14 years,80-119k,1105,245,25
+303,2025-03,Range Rover,10-14 years,Unknown,1,1,0
+304,2025-03,Range Rover,15+ years,0-39k,27,3,1
+305,2025-03,Range Rover,15+ years,120k+,1394,460,68
+306,2025-03,Range Rover,15+ years,40-79k,143,25,3
+307,2025-03,Range Rover,15+ years,80-119k,537,146,17
+308,2025-03,Range Rover,15+ years,Unknown,60,26,2
+309,2025-03,Range Rover,5-9 years,0-39k,374,41,4
+310,2025-03,Range Rover,5-9 years,120k+,145,27,3
+311,2025-03,Range Rover,5-9 years,40-79k,1400,191,24
+312,2025-03,Range Rover,5-9 years,80-119k,729,141,22
+313,2025-03,Range Rover Sport,0-4 years,0-39k,1848,220,50
+314,2025-03,Range Rover Sport,0-4 years,120k+,3,0,0
+315,2025-03,Range Rover Sport,0-4 years,40-79k,836,99,17
+316,2025-03,Range Rover Sport,0-4 years,80-119k,27,3,0
+317,2025-03,Range Rover Sport,10-14 years,0-39k,46,8,2
+318,2025-03,Range Rover Sport,10-14 years,120k+,693,166,26
+319,2025-03,Range Rover Sport,10-14 years,40-79k,630,120,14
+320,2025-03,Range Rover Sport,10-14 years,80-119k,1459,336,40
+321,2025-03,Range Rover Sport,10-14 years,Unknown,1,0,0
+322,2025-03,Range Rover Sport,15+ years,0-39k,8,0,0
+323,2025-03,Range Rover Sport,15+ years,120k+,1154,402,79
+324,2025-03,Range Rover Sport,15+ years,40-79k,115,33,6
+325,2025-03,Range Rover Sport,15+ years,80-119k,563,166,34
+326,2025-03,Range Rover Sport,15+ years,Unknown,1,0,0
+327,2025-03,Range Rover Sport,5-9 years,0-39k,820,89,18
+328,2025-03,Range Rover Sport,5-9 years,120k+,160,39,5
+329,2025-03,Range Rover Sport,5-9 years,40-79k,3019,467,76
+330,2025-03,Range Rover Sport,5-9 years,80-119k,1221,221,23
+331,2025-03,Range Rover Sport,5-9 years,Unknown,1,0,0
+332,2025-03,Velar,0-4 years,0-39k,1013,144,48
+333,2025-03,Velar,0-4 years,40-79k,464,86,24
+334,2025-03,Velar,0-4 years,80-119k,17,4,1
+335,2025-03,Velar,5-9 years,0-39k,540,75,16
+336,2025-03,Velar,5-9 years,120k+,6,2,0
+337,2025-03,Velar,5-9 years,40-79k,1642,271,36
+338,2025-03,Velar,5-9 years,80-119k,228,45,7
+339,2025-03,Velar,5-9 years,Unknown,1,1,0

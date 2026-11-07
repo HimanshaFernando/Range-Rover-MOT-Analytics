@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "7e50d7257b365f678d61",
+  "displayName": "01  |  Inspection overview",
+  "displayOption": "FitToPage",
+  "width": 1280,
+  "height": 720
+}

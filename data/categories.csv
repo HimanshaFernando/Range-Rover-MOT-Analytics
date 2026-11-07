@@ -1,0 +1,2608 @@
+cohort_id,category,affected,items
+1,"Body, chassis, structure",17,17
+1,Brakes,24,29
+1,Identification of the vehicle,13,21
+1,"Lamps, reflectors and electrical equipment",56,74
+1,"Noise, emissions and leaks",73,86
+1,Road wheels,1,2
+1,Seat belts and supplementary restraint systems,5,6
+1,Suspension,21,23
+1,Tyres,164,215
+1,Visibility,27,28
+3,"Body, chassis, structure",4,4
+3,Brakes,25,40
+3,Identification of the vehicle,1,2
+3,"Lamps, reflectors and electrical equipment",18,31
+3,"Noise, emissions and leaks",26,28
+3,Seat belts and supplementary restraint systems,2,2
+3,Suspension,5,6
+3,Tyres,45,63
+3,Visibility,16,19
+4,Tyres,2,2
+5,Brakes,1,1
+5,"Lamps, reflectors and electrical equipment",1,1
+5,Suspension,1,1
+5,Tyres,3,3
+6,"Body, chassis, structure",34,40
+6,Brakes,45,65
+6,Identification of the vehicle,3,4
+6,"Lamps, reflectors and electrical equipment",57,93
+6,"Noise, emissions and leaks",6,6
+6,Road wheels,7,8
+6,Seat belts and supplementary restraint systems,12,13
+6,Steering,2,3
+6,Suspension,76,95
+6,Tyres,36,53
+6,Visibility,28,33
+7,"Body, chassis, structure",14,15
+7,Brakes,36,48
+7,Identification of the vehicle,4,6
+7,"Lamps, reflectors and electrical equipment",40,61
+7,"Noise, emissions and leaks",5,5
+7,Road wheels,6,6
+7,Seat belts and supplementary restraint systems,5,5
+7,Steering,4,4
+7,Suspension,28,35
+7,Tyres,36,48
+7,Visibility,15,17
+8,"Body, chassis, structure",52,58
+8,Brakes,70,105
+8,Identification of the vehicle,5,8
+8,"Lamps, reflectors and electrical equipment",97,161
+8,"Noise, emissions and leaks",7,7
+8,Road wheels,5,9
+8,Seat belts and supplementary restraint systems,9,9
+8,Steering,4,4
+8,Suspension,114,146
+8,Tyres,102,139
+8,Visibility,42,47
+9,"Body, chassis, structure",9,10
+9,Brakes,31,52
+9,Identification of the vehicle,7,11
+9,"Lamps, reflectors and electrical equipment",36,51
+9,"Noise, emissions and leaks",20,21
+9,Road wheels,2,2
+9,Seat belts and supplementary restraint systems,5,5
+9,Steering,2,3
+9,Suspension,7,9
+9,Tyres,58,84
+9,Visibility,13,20
+10,"Body, chassis, structure",7,8
+10,Brakes,19,28
+10,"Lamps, reflectors and electrical equipment",22,30
+10,"Noise, emissions and leaks",9,9
+10,Road wheels,3,3
+10,Seat belts and supplementary restraint systems,2,2
+10,Suspension,14,15
+10,Tyres,16,19
+10,Visibility,5,6
+11,"Body, chassis, structure",36,36
+11,Brakes,219,317
+11,Identification of the vehicle,27,43
+11,"Lamps, reflectors and electrical equipment",219,334
+11,"Noise, emissions and leaks",105,110
+11,Road wheels,19,21
+11,Seat belts and supplementary restraint systems,17,17
+11,Steering,9,11
+11,Suspension,96,102
+11,Tyres,245,339
+11,Visibility,65,78
+12,"Body, chassis, structure",21,23
+12,Brakes,95,139
+12,Identification of the vehicle,7,11
+12,"Lamps, reflectors and electrical equipment",100,139
+12,"Noise, emissions and leaks",49,54
+12,Road wheels,12,15
+12,Seat belts and supplementary restraint systems,9,9
+12,Steering,7,9
+12,Suspension,57,62
+12,Tyres,126,161
+12,Visibility,35,39
+14,"Body, chassis, structure",1,1
+14,Brakes,8,10
+14,Identification of the vehicle,6,11
+14,"Lamps, reflectors and electrical equipment",8,12
+14,"Noise, emissions and leaks",2,2
+14,Road wheels,1,1
+14,Seat belts and supplementary restraint systems,1,1
+14,Tyres,28,37
+14,Visibility,13,15
+15,"Body, chassis, structure",1,1
+15,Brakes,9,10
+15,Identification of the vehicle,4,6
+15,"Lamps, reflectors and electrical equipment",8,12
+15,"Noise, emissions and leaks",1,1
+15,Road wheels,1,1
+15,Tyres,29,41
+15,Visibility,14,19
+16,Identification of the vehicle,1,1
+16,"Lamps, reflectors and electrical equipment",1,1
+16,Seat belts and supplementary restraint systems,1,1
+16,Tyres,2,3
+17,"Lamps, reflectors and electrical equipment",2,2
+17,"Noise, emissions and leaks",1,1
+17,Suspension,2,2
+17,Tyres,2,4
+18,"Body, chassis, structure",44,53
+18,Brakes,60,107
+18,Identification of the vehicle,9,13
+18,"Lamps, reflectors and electrical equipment",45,60
+18,"Noise, emissions and leaks",18,21
+18,Road wheels,7,7
+18,Seat belts and supplementary restraint systems,7,7
+18,Steering,13,15
+18,Suspension,78,135
+18,Tyres,36,48
+18,Visibility,19,21
+19,"Body, chassis, structure",6,7
+19,Brakes,15,20
+19,Identification of the vehicle,2,4
+19,"Lamps, reflectors and electrical equipment",20,36
+19,"Noise, emissions and leaks",3,3
+19,Road wheels,1,4
+19,Seat belts and supplementary restraint systems,6,6
+19,Suspension,19,24
+19,Tyres,25,35
+19,Visibility,12,14
+20,"Body, chassis, structure",37,43
+20,Brakes,79,128
+20,Identification of the vehicle,11,17
+20,"Lamps, reflectors and electrical equipment",54,76
+20,"Noise, emissions and leaks",11,12
+20,Road wheels,4,5
+20,Seat belts and supplementary restraint systems,8,8
+20,Steering,10,12
+20,Suspension,94,157
+20,Tyres,56,70
+20,Visibility,24,30
+21,"Body, chassis, structure",1,1
+21,Brakes,2,2
+21,"Lamps, reflectors and electrical equipment",2,2
+21,Seat belts and supplementary restraint systems,1,2
+21,Steering,1,1
+21,Suspension,2,2
+21,Tyres,1,1
+21,Visibility,1,1
+22,"Body, chassis, structure",148,208
+22,Brakes,211,432
+22,Identification of the vehicle,10,13
+22,"Lamps, reflectors and electrical equipment",170,265
+22,"Noise, emissions and leaks",49,83
+22,Road wheels,12,18
+22,Seat belts and supplementary restraint systems,60,72
+22,Steering,48,61
+22,Suspension,210,363
+22,Tyres,59,86
+22,Visibility,68,81
+23,"Body, chassis, structure",7,12
+23,Brakes,15,33
+23,"Lamps, reflectors and electrical equipment",12,25
+23,"Noise, emissions and leaks",1,1
+23,Seat belts and supplementary restraint systems,4,4
+23,Steering,4,6
+23,Suspension,10,19
+23,Tyres,3,3
+23,Visibility,10,10
+24,"Body, chassis, structure",39,53
+24,Brakes,67,125
+24,Identification of the vehicle,6,7
+24,"Lamps, reflectors and electrical equipment",37,54
+24,"Noise, emissions and leaks",12,16
+24,Road wheels,3,6
+24,Seat belts and supplementary restraint systems,17,21
+24,Steering,22,30
+24,Suspension,60,102
+24,Tyres,22,32
+24,Visibility,16,22
+25,"Body, chassis, structure",5,7
+25,Brakes,10,16
+25,"Lamps, reflectors and electrical equipment",4,4
+25,"Noise, emissions and leaks",1,1
+25,Seat belts and supplementary restraint systems,2,2
+25,Steering,4,4
+25,Suspension,10,25
+25,Tyres,1,1
+25,Visibility,3,4
+26,"Body, chassis, structure",1,1
+26,Brakes,7,14
+26,Identification of the vehicle,2,4
+26,"Noise, emissions and leaks",3,3
+26,Seat belts and supplementary restraint systems,2,2
+26,Suspension,4,5
+26,Tyres,18,23
+26,Visibility,5,5
+27,"Body, chassis, structure",1,2
+27,Brakes,2,6
+27,Identification of the vehicle,1,1
+27,"Lamps, reflectors and electrical equipment",2,2
+27,"Noise, emissions and leaks",2,2
+27,Road wheels,1,1
+27,Seat belts and supplementary restraint systems,4,4
+27,Suspension,4,8
+27,Tyres,13,17
+27,Visibility,6,8
+28,"Body, chassis, structure",10,11
+28,Brakes,57,101
+28,Identification of the vehicle,8,12
+28,"Lamps, reflectors and electrical equipment",14,22
+28,"Noise, emissions and leaks",14,14
+28,Road wheels,3,6
+28,Seat belts and supplementary restraint systems,30,31
+28,Steering,1,1
+28,Suspension,47,67
+28,Tyres,73,83
+28,Visibility,24,30
+29,"Body, chassis, structure",13,15
+29,Brakes,39,67
+29,Identification of the vehicle,10,17
+29,"Lamps, reflectors and electrical equipment",19,28
+29,"Noise, emissions and leaks",13,13
+29,Road wheels,3,3
+29,Seat belts and supplementary restraint systems,28,31
+29,Suspension,53,70
+29,Tyres,45,57
+29,Visibility,13,18
+30,"Body, chassis, structure",2,2
+30,Brakes,14,18
+30,Identification of the vehicle,13,22
+30,"Lamps, reflectors and electrical equipment",22,32
+30,"Noise, emissions and leaks",4,4
+30,Road wheels,1,1
+30,Seat belts and supplementary restraint systems,1,2
+30,Suspension,1,2
+30,Tyres,69,90
+30,Visibility,36,44
+32,"Body, chassis, structure",1,1
+32,Brakes,22,30
+32,Identification of the vehicle,8,13
+32,"Lamps, reflectors and electrical equipment",14,22
+32,"Noise, emissions and leaks",7,7
+32,Seat belts and supplementary restraint systems,1,1
+32,Suspension,2,6
+32,Tyres,45,65
+32,Visibility,22,30
+33,Identification of the vehicle,1,1
+33,"Lamps, reflectors and electrical equipment",1,2
+33,Road wheels,1,1
+33,Tyres,4,5
+34,Identification of the vehicle,1,1
+34,Tyres,1,1
+35,"Body, chassis, structure",32,38
+35,Brakes,85,146
+35,Identification of the vehicle,3,5
+35,"Lamps, reflectors and electrical equipment",67,100
+35,"Noise, emissions and leaks",19,22
+35,Road wheels,15,23
+35,Seat belts and supplementary restraint systems,9,9
+35,Steering,10,12
+35,Suspension,80,119
+35,Tyres,61,87
+35,Visibility,23,25
+36,"Body, chassis, structure",10,11
+36,Brakes,28,64
+36,Identification of the vehicle,6,9
+36,"Lamps, reflectors and electrical equipment",16,20
+36,"Noise, emissions and leaks",9,10
+36,Road wheels,2,3
+36,Seat belts and supplementary restraint systems,8,9
+36,Steering,3,4
+36,Suspension,29,46
+36,Tyres,28,37
+36,Visibility,9,11
+37,"Body, chassis, structure",30,32
+37,Brakes,114,202
+37,Identification of the vehicle,7,8
+37,"Lamps, reflectors and electrical equipment",89,129
+37,"Noise, emissions and leaks",24,24
+37,Road wheels,11,18
+37,Seat belts and supplementary restraint systems,23,23
+37,Steering,12,12
+37,Suspension,90,142
+37,Tyres,85,122
+37,Visibility,39,48
+38,"Body, chassis, structure",2,2
+38,"Lamps, reflectors and electrical equipment",1,1
+40,"Body, chassis, structure",91,117
+40,Brakes,133,254
+40,Buses and coaches supplementary tests,2,3
+40,Identification of the vehicle,6,10
+40,"Lamps, reflectors and electrical equipment",214,334
+40,"Noise, emissions and leaks",28,33
+40,Road wheels,11,16
+40,Seat belts and supplementary restraint systems,37,49
+40,Steering,29,34
+40,Suspension,140,232
+40,Tyres,98,126
+40,Visibility,60,68
+41,"Body, chassis, structure",6,7
+41,Brakes,6,9
+41,Identification of the vehicle,2,4
+41,"Lamps, reflectors and electrical equipment",13,19
+41,"Noise, emissions and leaks",2,2
+41,Seat belts and supplementary restraint systems,3,3
+41,Steering,1,1
+41,Suspension,9,17
+41,Tyres,11,12
+41,Visibility,4,5
+42,"Body, chassis, structure",47,58
+42,Brakes,55,112
+42,Identification of the vehicle,4,5
+42,"Lamps, reflectors and electrical equipment",71,103
+42,"Noise, emissions and leaks",13,14
+42,Road wheels,6,12
+42,Seat belt installation check,1,1
+42,Seat belts and supplementary restraint systems,9,10
+42,Steering,6,10
+42,Suspension,49,76
+42,Tyres,39,62
+42,Visibility,26,28
+43,Brakes,1,2
+43,Seat belts and supplementary restraint systems,1,1
+43,Steering,1,1
+43,Visibility,1,1
+44,"Body, chassis, structure",2,2
+44,Brakes,12,24
+44,Buses and coaches supplementary tests,1,1
+44,Identification of the vehicle,2,3
+44,"Lamps, reflectors and electrical equipment",8,15
+44,"Noise, emissions and leaks",4,4
+44,Seat belts and supplementary restraint systems,7,7
+44,Suspension,8,8
+44,Tyres,25,36
+44,Visibility,19,26
+45,"Body, chassis, structure",2,2
+45,Brakes,10,16
+45,Identification of the vehicle,3,5
+45,"Lamps, reflectors and electrical equipment",4,8
+45,"Noise, emissions and leaks",1,1
+45,Road wheels,1,1
+45,Seat belts and supplementary restraint systems,4,4
+45,Suspension,6,10
+45,Tyres,10,15
+45,Visibility,4,4
+46,"Body, chassis, structure",20,22
+46,Brakes,117,177
+46,Identification of the vehicle,17,29
+46,"Lamps, reflectors and electrical equipment",50,78
+46,"Noise, emissions and leaks",35,35
+46,Road wheels,9,16
+46,Seat belts and supplementary restraint systems,81,83
+46,Suspension,86,128
+46,Tyres,136,176
+46,Visibility,62,72
+47,"Body, chassis, structure",13,14
+47,Brakes,66,114
+47,Identification of the vehicle,17,29
+47,"Lamps, reflectors and electrical equipment",28,37
+47,"Noise, emissions and leaks",26,29
+47,Road wheels,11,16
+47,Seat belts and supplementary restraint systems,57,58
+47,Steering,2,2
+47,Suspension,74,115
+47,Tyres,80,108
+47,Visibility,35,41
+48,Brakes,1,1
+48,Suspension,1,1
+49,"Body, chassis, structure",2,2
+49,Brakes,14,21
+49,Identification of the vehicle,3,5
+49,"Lamps, reflectors and electrical equipment",31,46
+49,"Noise, emissions and leaks",9,9
+49,Road wheels,1,1
+49,Seat belts and supplementary restraint systems,1,1
+49,Steering,6,6
+49,Suspension,2,4
+49,Tyres,26,33
+49,Visibility,61,67
+50,Brakes,15,20
+50,Identification of the vehicle,4,7
+50,"Lamps, reflectors and electrical equipment",14,19
+50,"Noise, emissions and leaks",10,10
+50,Road wheels,2,4
+50,Seat belts and supplementary restraint systems,1,1
+50,Steering,5,5
+50,Suspension,3,3
+50,Tyres,27,40
+50,Visibility,28,32
+51,"Body, chassis, structure",1,1
+51,Brakes,1,1
+51,"Noise, emissions and leaks",1,1
+51,Steering,1,1
+51,Suspension,1,1
+51,Visibility,1,2
+52,Brakes,11,14
+52,Identification of the vehicle,2,4
+52,"Lamps, reflectors and electrical equipment",14,23
+52,"Noise, emissions and leaks",2,2
+52,Seat belts and supplementary restraint systems,1,1
+52,Steering,5,6
+52,Suspension,1,1
+52,Tyres,11,15
+52,Visibility,15,17
+53,"Body, chassis, structure",4,4
+53,Brakes,21,31
+53,Identification of the vehicle,5,9
+53,"Lamps, reflectors and electrical equipment",18,24
+53,"Noise, emissions and leaks",18,18
+53,Road wheels,1,1
+53,Seat belts and supplementary restraint systems,3,3
+53,Steering,19,25
+53,Suspension,9,11
+53,Tyres,32,43
+53,Visibility,34,42
+54,"Body, chassis, structure",1,1
+54,Brakes,4,4
+54,"Lamps, reflectors and electrical equipment",2,3
+54,"Noise, emissions and leaks",2,2
+54,Road wheels,1,1
+54,Steering,6,6
+54,Tyres,3,3
+54,Visibility,3,3
+55,"Body, chassis, structure",10,10
+55,Brakes,41,51
+55,Identification of the vehicle,18,31
+55,"Lamps, reflectors and electrical equipment",65,93
+55,"Noise, emissions and leaks",59,66
+55,Road wheels,2,2
+55,Seat belts and supplementary restraint systems,10,10
+55,Steering,4,4
+55,Suspension,46,51
+55,Tyres,216,291
+55,Visibility,38,42
+57,"Body, chassis, structure",4,4
+57,Brakes,30,43
+57,Identification of the vehicle,3,6
+57,"Lamps, reflectors and electrical equipment",32,42
+57,"Noise, emissions and leaks",31,34
+57,Seat belts and supplementary restraint systems,4,4
+57,Suspension,18,18
+57,Tyres,84,119
+57,Visibility,10,11
+58,"Noise, emissions and leaks",2,2
+58,Tyres,2,2
+59,"Lamps, reflectors and electrical equipment",2,3
+59,"Noise, emissions and leaks",1,1
+59,Road wheels,1,1
+59,Seat belts and supplementary restraint systems,1,1
+59,Suspension,1,1
+59,Tyres,1,2
+59,Visibility,3,4
+60,"Body, chassis, structure",24,27
+60,Brakes,36,51
+60,Identification of the vehicle,5,8
+60,"Lamps, reflectors and electrical equipment",47,81
+60,"Noise, emissions and leaks",3,3
+60,Road wheels,4,4
+60,Seat belts and supplementary restraint systems,5,5
+60,Steering,4,6
+60,Suspension,52,69
+60,Tyres,35,45
+60,Visibility,15,18
+61,"Body, chassis, structure",24,27
+61,Brakes,35,57
+61,Identification of the vehicle,2,3
+61,"Lamps, reflectors and electrical equipment",45,71
+61,"Noise, emissions and leaks",3,3
+61,Road wheels,3,3
+61,Seat belts and supplementary restraint systems,3,3
+61,Steering,2,2
+61,Suspension,44,53
+61,Tyres,32,37
+61,Visibility,17,24
+62,"Body, chassis, structure",41,48
+62,Brakes,91,131
+62,Identification of the vehicle,7,12
+62,"Lamps, reflectors and electrical equipment",113,163
+62,"Noise, emissions and leaks",7,10
+62,Road wheels,8,12
+62,Seat belts and supplementary restraint systems,5,6
+62,Steering,4,4
+62,Suspension,98,120
+62,Tyres,74,105
+62,Visibility,41,46
+63,Visibility,1,1
+64,"Body, chassis, structure",7,7
+64,Brakes,33,46
+64,Identification of the vehicle,3,4
+64,"Lamps, reflectors and electrical equipment",34,46
+64,"Noise, emissions and leaks",17,18
+64,Road wheels,7,10
+64,Seat belts and supplementary restraint systems,3,3
+64,Steering,1,1
+64,Suspension,8,8
+64,Tyres,60,85
+64,Visibility,15,19
+65,"Body, chassis, structure",4,4
+65,Brakes,17,37
+65,"Lamps, reflectors and electrical equipment",16,24
+65,"Noise, emissions and leaks",4,4
+65,Road wheels,1,2
+65,Seat belts and supplementary restraint systems,1,1
+65,Steering,1,1
+65,Suspension,11,12
+65,Tyres,14,18
+65,Visibility,9,10
+66,"Body, chassis, structure",34,34
+66,Brakes,221,331
+66,Identification of the vehicle,22,34
+66,"Lamps, reflectors and electrical equipment",198,306
+66,"Noise, emissions and leaks",82,85
+66,Road wheels,20,35
+66,Seat belts and supplementary restraint systems,12,12
+66,Steering,6,7
+66,Suspension,95,107
+66,Tyres,228,326
+66,Visibility,72,83
+67,"Body, chassis, structure",29,35
+67,Brakes,84,116
+67,Identification of the vehicle,7,11
+67,"Lamps, reflectors and electrical equipment",92,139
+67,"Noise, emissions and leaks",41,50
+67,Road wheels,8,16
+67,Seat belts and supplementary restraint systems,2,2
+67,Steering,3,4
+67,Suspension,55,69
+67,Tyres,92,136
+67,Visibility,35,41
+68,"Body, chassis, structure",4,5
+68,Brakes,6,8
+68,Identification of the vehicle,6,11
+68,"Lamps, reflectors and electrical equipment",7,7
+68,"Noise, emissions and leaks",1,1
+68,Road wheels,2,3
+68,Seat belts and supplementary restraint systems,1,1
+68,Suspension,1,2
+68,Tyres,37,53
+68,Visibility,13,15
+70,Brakes,7,8
+70,Identification of the vehicle,3,5
+70,"Lamps, reflectors and electrical equipment",3,4
+70,"Noise, emissions and leaks",7,7
+70,Road wheels,2,2
+70,Suspension,3,5
+70,Tyres,22,29
+70,Visibility,11,13
+71,Brakes,1,3
+71,"Noise, emissions and leaks",1,1
+71,Road wheels,1,1
+71,Tyres,2,3
+71,Visibility,1,1
+72,Brakes,2,4
+72,"Noise, emissions and leaks",1,1
+72,Road wheels,1,2
+72,Suspension,1,2
+72,Visibility,1,1
+73,"Body, chassis, structure",28,36
+73,Brakes,59,124
+73,Identification of the vehicle,3,4
+73,"Lamps, reflectors and electrical equipment",53,71
+73,"Noise, emissions and leaks",17,17
+73,Road wheels,4,6
+73,Seat belts and supplementary restraint systems,9,10
+73,Steering,13,17
+73,Suspension,83,137
+73,Tyres,45,62
+73,Visibility,20,22
+74,"Body, chassis, structure",6,6
+74,Brakes,21,34
+74,Identification of the vehicle,4,7
+74,"Lamps, reflectors and electrical equipment",16,28
+74,"Noise, emissions and leaks",5,7
+74,Seat belts and supplementary restraint systems,1,1
+74,Suspension,19,24
+74,Tyres,13,20
+74,Visibility,7,8
+75,"Body, chassis, structure",35,39
+75,Brakes,78,146
+75,Identification of the vehicle,8,12
+75,"Lamps, reflectors and electrical equipment",38,53
+75,"Noise, emissions and leaks",16,18
+75,Road wheels,7,7
+75,Seat belts and supplementary restraint systems,13,13
+75,Steering,6,9
+75,Suspension,101,152
+75,Tyres,50,73
+75,Visibility,18,23
+76,Brakes,1,1
+77,"Body, chassis, structure",141,189
+77,Brakes,191,373
+77,Identification of the vehicle,3,5
+77,"Lamps, reflectors and electrical equipment",157,261
+77,"Noise, emissions and leaks",48,61
+77,Road wheels,11,12
+77,Seat belts and supplementary restraint systems,37,46
+77,Steering,63,79
+77,Suspension,238,428
+77,Tyres,70,92
+77,Visibility,67,83
+78,"Body, chassis, structure",10,15
+78,Brakes,14,33
+78,"Lamps, reflectors and electrical equipment",8,14
+78,"Noise, emissions and leaks",1,1
+78,Road wheels,2,2
+78,Seat belts and supplementary restraint systems,2,2
+78,Speedometer and speed limiter,1,1
+78,Steering,5,8
+78,Suspension,11,18
+78,Tyres,3,7
+78,Visibility,7,9
+79,"Body, chassis, structure",35,51
+79,Brakes,73,130
+79,Identification of the vehicle,2,2
+79,"Lamps, reflectors and electrical equipment",62,92
+79,"Noise, emissions and leaks",21,25
+79,Road wheels,2,5
+79,Seat belts and supplementary restraint systems,14,18
+79,Steering,27,35
+79,Suspension,68,126
+79,Tyres,28,44
+79,Visibility,27,33
+80,"Body, chassis, structure",6,9
+80,Brakes,5,13
+80,"Lamps, reflectors and electrical equipment",1,3
+80,Seat belts and supplementary restraint systems,1,1
+80,Steering,2,2
+80,Suspension,13,25
+80,Tyres,3,5
+80,Visibility,1,1
+81,Brakes,8,14
+81,Identification of the vehicle,1,1
+81,"Lamps, reflectors and electrical equipment",3,4
+81,"Noise, emissions and leaks",5,5
+81,Seat belts and supplementary restraint systems,1,1
+81,Suspension,1,1
+81,Tyres,25,33
+81,Visibility,5,8
+82,"Body, chassis, structure",2,2
+82,Brakes,8,15
+82,Identification of the vehicle,1,1
+82,"Lamps, reflectors and electrical equipment",4,4
+82,"Noise, emissions and leaks",5,6
+82,Seat belts and supplementary restraint systems,6,6
+82,Suspension,5,6
+82,Tyres,6,8
+82,Visibility,3,4
+83,"Body, chassis, structure",12,12
+83,Brakes,47,84
+83,Identification of the vehicle,12,19
+83,"Lamps, reflectors and electrical equipment",19,26
+83,"Noise, emissions and leaks",14,17
+83,Road wheels,6,6
+83,Seat belts and supplementary restraint systems,13,13
+83,Steering,1,1
+83,Suspension,34,44
+83,Tyres,63,79
+83,Visibility,31,41
+84,"Body, chassis, structure",15,15
+84,Brakes,38,61
+84,Identification of the vehicle,9,12
+84,"Lamps, reflectors and electrical equipment",12,16
+84,"Noise, emissions and leaks",9,9
+84,Seat belts and supplementary restraint systems,16,16
+84,Suspension,32,46
+84,Tyres,36,49
+84,Visibility,16,19
+85,"Body, chassis, structure",4,4
+85,Brakes,23,27
+85,Identification of the vehicle,11,19
+85,"Lamps, reflectors and electrical equipment",20,27
+85,"Noise, emissions and leaks",12,12
+85,Road wheels,3,4
+85,Seat belts and supplementary restraint systems,1,1
+85,Suspension,2,3
+85,Tyres,93,127
+85,Visibility,43,57
+86,"Body, chassis, structure",3,3
+86,Brakes,13,19
+86,Identification of the vehicle,9,16
+86,"Lamps, reflectors and electrical equipment",12,18
+86,"Noise, emissions and leaks",4,4
+86,Seat belts and supplementary restraint systems,1,1
+86,Suspension,3,4
+86,Tyres,38,50
+86,Visibility,29,36
+87,"Noise, emissions and leaks",1,1
+87,Tyres,1,1
+88,"Body, chassis, structure",1,1
+88,Brakes,1,2
+88,"Lamps, reflectors and electrical equipment",1,1
+88,Road wheels,1,1
+88,Seat belts and supplementary restraint systems,1,1
+88,Suspension,1,1
+88,Tyres,1,2
+89,"Body, chassis, structure",35,42
+89,Brakes,77,144
+89,Identification of the vehicle,6,10
+89,"Lamps, reflectors and electrical equipment",53,65
+89,"Noise, emissions and leaks",22,22
+89,Road wheels,8,10
+89,Seat belts and supplementary restraint systems,14,16
+89,Steering,13,14
+89,Suspension,57,94
+89,Tyres,42,60
+89,Visibility,20,21
+90,"Body, chassis, structure",5,7
+90,Brakes,33,65
+90,Identification of the vehicle,1,1
+90,"Lamps, reflectors and electrical equipment",25,37
+90,"Noise, emissions and leaks",7,9
+90,Road wheels,1,2
+90,Seat belts and supplementary restraint systems,5,5
+90,Steering,1,1
+90,Suspension,17,29
+90,Tyres,21,28
+90,Visibility,7,8
+91,"Body, chassis, structure",36,41
+91,Brakes,100,180
+91,Identification of the vehicle,10,20
+91,"Lamps, reflectors and electrical equipment",70,97
+91,"Noise, emissions and leaks",18,19
+91,Road wheels,10,18
+91,Seat belts and supplementary restraint systems,22,25
+91,Steering,8,9
+91,Suspension,67,101
+91,Tyres,73,99
+91,Visibility,30,33
+93,"Lamps, reflectors and electrical equipment",1,1
+93,Suspension,1,1
+94,"Body, chassis, structure",104,131
+94,Brakes,121,267
+94,Buses and coaches supplementary tests,1,1
+94,Identification of the vehicle,14,22
+94,"Lamps, reflectors and electrical equipment",189,349
+94,"Noise, emissions and leaks",31,37
+94,Road wheels,12,13
+94,Seat belts and supplementary restraint systems,36,44
+94,Speedometer and speed limiter,1,1
+94,Steering,12,13
+94,Suspension,129,218
+94,Tyres,92,135
+94,Visibility,58,70
+95,"Body, chassis, structure",5,9
+95,Brakes,14,28
+95,Identification of the vehicle,2,2
+95,"Lamps, reflectors and electrical equipment",15,19
+95,"Noise, emissions and leaks",1,1
+95,Road wheels,2,5
+95,Suspension,7,11
+95,Tyres,8,9
+95,Visibility,2,2
+96,"Body, chassis, structure",29,43
+96,Brakes,41,74
+96,Identification of the vehicle,5,6
+96,"Lamps, reflectors and electrical equipment",77,119
+96,"Noise, emissions and leaks",16,16
+96,Road wheels,7,9
+96,Seat belts and supplementary restraint systems,10,15
+96,Steering,6,6
+96,Suspension,45,62
+96,Tyres,31,44
+96,Visibility,25,30
+98,Brakes,13,20
+98,Identification of the vehicle,3,5
+98,"Lamps, reflectors and electrical equipment",5,5
+98,"Noise, emissions and leaks",8,8
+98,Seat belts and supplementary restraint systems,8,8
+98,Suspension,5,8
+98,Tyres,14,20
+98,Visibility,9,13
+99,"Body, chassis, structure",3,4
+99,Brakes,12,17
+99,Identification of the vehicle,2,3
+99,"Lamps, reflectors and electrical equipment",6,14
+99,"Noise, emissions and leaks",5,5
+99,Seat belts and supplementary restraint systems,3,4
+99,Suspension,11,12
+99,Tyres,12,16
+99,Visibility,4,4
+100,"Body, chassis, structure",24,25
+100,Brakes,98,147
+100,Identification of the vehicle,30,52
+100,"Lamps, reflectors and electrical equipment",59,88
+100,"Noise, emissions and leaks",39,44
+100,Road wheels,8,14
+100,Seat belts and supplementary restraint systems,56,57
+100,Steering,2,2
+100,Suspension,81,106
+100,Tyres,101,134
+100,Visibility,54,73
+101,"Body, chassis, structure",13,16
+101,Brakes,63,113
+101,Identification of the vehicle,15,22
+101,"Lamps, reflectors and electrical equipment",39,61
+101,"Noise, emissions and leaks",16,18
+101,Road wheels,6,8
+101,Seat belts and supplementary restraint systems,36,36
+101,Suspension,82,122
+101,Tyres,52,79
+101,Visibility,31,36
+103,"Body, chassis, structure",2,2
+103,Brakes,22,33
+103,Identification of the vehicle,6,10
+103,"Lamps, reflectors and electrical equipment",28,41
+103,"Noise, emissions and leaks",11,11
+103,Seat belts and supplementary restraint systems,3,3
+103,Steering,3,3
+103,Tyres,37,46
+103,Visibility,56,60
+104,"Body, chassis, structure",4,4
+104,Brakes,20,26
+104,Identification of the vehicle,5,9
+104,"Lamps, reflectors and electrical equipment",15,26
+104,"Noise, emissions and leaks",9,9
+104,Road wheels,1,1
+104,Seat belts and supplementary restraint systems,1,1
+104,Steering,1,1
+104,Suspension,4,5
+104,Tyres,30,39
+104,Visibility,29,34
+105,Brakes,1,2
+105,"Noise, emissions and leaks",1,2
+105,Steering,1,1
+105,Suspension,2,3
+105,Tyres,2,3
+105,Visibility,1,1
+106,"Body, chassis, structure",1,1
+106,Brakes,15,22
+106,Identification of the vehicle,3,5
+106,"Lamps, reflectors and electrical equipment",11,15
+106,"Noise, emissions and leaks",6,6
+106,Road wheels,2,2
+106,Seat belts and supplementary restraint systems,2,2
+106,Steering,4,5
+106,Suspension,1,1
+106,Tyres,17,23
+106,Visibility,9,10
+108,"Body, chassis, structure",4,5
+108,Brakes,25,30
+108,Identification of the vehicle,2,4
+108,"Lamps, reflectors and electrical equipment",27,36
+108,"Noise, emissions and leaks",14,14
+108,Road wheels,3,3
+108,Seat belts and supplementary restraint systems,3,3
+108,Steering,22,25
+108,Suspension,6,6
+108,Tyres,51,61
+108,Visibility,29,33
+109,Brakes,1,1
+109,"Lamps, reflectors and electrical equipment",1,2
+109,Tyres,2,3
+110,"Body, chassis, structure",17,18
+110,Brakes,67,91
+110,Identification of the vehicle,20,34
+110,"Lamps, reflectors and electrical equipment",76,103
+110,"Noise, emissions and leaks",86,91
+110,Road wheels,8,8
+110,Seat belts and supplementary restraint systems,13,13
+110,Steering,2,3
+110,Suspension,47,54
+110,Tyres,303,413
+110,Visibility,43,48
+112,"Body, chassis, structure",1,1
+112,Brakes,33,57
+112,Identification of the vehicle,7,12
+112,"Lamps, reflectors and electrical equipment",26,38
+112,"Noise, emissions and leaks",41,43
+112,Seat belts and supplementary restraint systems,4,4
+112,Suspension,18,23
+112,Tyres,103,144
+112,Visibility,15,16
+113,"Body, chassis, structure",1,1
+113,Brakes,1,4
+113,"Lamps, reflectors and electrical equipment",2,3
+113,"Noise, emissions and leaks",3,3
+113,Suspension,1,2
+113,Tyres,1,1
+113,Visibility,1,1
+114,"Body, chassis, structure",2,2
+114,Brakes,5,7
+114,"Lamps, reflectors and electrical equipment",2,3
+114,Steering,1,1
+114,Suspension,1,1
+114,Tyres,3,4
+114,Visibility,1,1
+115,"Body, chassis, structure",28,33
+115,Brakes,39,48
+115,Identification of the vehicle,3,6
+115,"Lamps, reflectors and electrical equipment",44,68
+115,"Noise, emissions and leaks",6,6
+115,Road wheels,4,5
+115,Seat belts and supplementary restraint systems,4,4
+115,Steering,4,4
+115,Suspension,54,59
+115,Tyres,31,43
+115,Visibility,18,20
+116,"Body, chassis, structure",22,22
+116,Brakes,43,60
+116,Identification of the vehicle,7,9
+116,"Lamps, reflectors and electrical equipment",53,91
+116,"Noise, emissions and leaks",8,8
+116,Road wheels,2,5
+116,Seat belts and supplementary restraint systems,7,7
+116,Suspension,49,57
+116,Tyres,26,38
+116,Visibility,27,32
+117,"Body, chassis, structure",62,69
+117,Brakes,109,145
+117,Identification of the vehicle,8,11
+117,"Lamps, reflectors and electrical equipment",107,169
+117,"Noise, emissions and leaks",11,11
+117,Road wheels,9,12
+117,Seat belts and supplementary restraint systems,8,8
+117,Suspension,119,148
+117,Tyres,85,114
+117,Visibility,43,48
+118,"Body, chassis, structure",8,8
+118,Brakes,63,88
+118,Identification of the vehicle,4,5
+118,"Lamps, reflectors and electrical equipment",52,84
+118,"Noise, emissions and leaks",32,34
+118,Road wheels,3,8
+118,Seat belts and supplementary restraint systems,5,5
+118,Steering,2,2
+118,Suspension,9,14
+118,Tyres,61,77
+118,Visibility,14,20
+119,"Body, chassis, structure",2,2
+119,Brakes,17,20
+119,"Lamps, reflectors and electrical equipment",11,22
+119,"Noise, emissions and leaks",3,3
+119,Road wheels,2,4
+119,Seat belts and supplementary restraint systems,1,1
+119,Suspension,16,20
+119,Tyres,15,24
+119,Visibility,6,6
+120,"Body, chassis, structure",45,46
+120,Brakes,221,321
+120,Identification of the vehicle,26,42
+120,"Lamps, reflectors and electrical equipment",249,363
+120,"Noise, emissions and leaks",98,109
+120,Road wheels,15,20
+120,Seat belt installation check,1,1
+120,Seat belts and supplementary restraint systems,20,21
+120,Steering,6,6
+120,Suspension,77,86
+120,Tyres,273,360
+120,Visibility,95,114
+121,"Body, chassis, structure",13,14
+121,Brakes,100,146
+121,Identification of the vehicle,12,18
+121,"Lamps, reflectors and electrical equipment",91,133
+121,"Noise, emissions and leaks",52,56
+121,Road wheels,8,15
+121,Seat belts and supplementary restraint systems,11,11
+121,Steering,9,11
+121,Suspension,53,64
+121,Tyres,134,177
+121,Visibility,30,32
+123,"Body, chassis, structure",4,4
+123,Brakes,9,11
+123,Identification of the vehicle,4,8
+123,"Lamps, reflectors and electrical equipment",11,15
+123,"Noise, emissions and leaks",4,4
+123,Road wheels,2,2
+123,Seat belts and supplementary restraint systems,2,2
+123,Suspension,1,1
+123,Tyres,45,60
+123,Visibility,13,16
+125,Brakes,11,13
+125,Identification of the vehicle,3,4
+125,"Lamps, reflectors and electrical equipment",4,5
+125,"Noise, emissions and leaks",2,2
+125,Road wheels,2,2
+125,Seat belts and supplementary restraint systems,1,1
+125,Suspension,2,3
+125,Tyres,19,21
+125,Visibility,12,16
+126,Tyres,1,2
+126,Visibility,1,1
+128,Brakes,1,1
+128,Tyres,1,1
+128,Visibility,1,1
+129,"Body, chassis, structure",29,36
+129,Brakes,70,132
+129,Identification of the vehicle,1,2
+129,"Lamps, reflectors and electrical equipment",38,51
+129,"Noise, emissions and leaks",10,10
+129,Road wheels,9,15
+129,Seat belts and supplementary restraint systems,7,8
+129,Steering,13,14
+129,Suspension,81,121
+129,Tyres,38,54
+129,Visibility,16,21
+130,"Body, chassis, structure",9,10
+130,Brakes,21,43
+130,Identification of the vehicle,4,7
+130,"Lamps, reflectors and electrical equipment",15,25
+130,"Noise, emissions and leaks",3,5
+130,Seat belts and supplementary restraint systems,7,7
+130,Steering,2,2
+130,Suspension,21,30
+130,Tyres,15,19
+130,Visibility,8,11
+131,"Body, chassis, structure",35,41
+131,Brakes,74,136
+131,Identification of the vehicle,7,10
+131,"Lamps, reflectors and electrical equipment",51,73
+131,"Noise, emissions and leaks",15,18
+131,Road wheels,6,9
+131,Seat belts and supplementary restraint systems,11,11
+131,Steering,3,5
+131,Suspension,74,110
+131,Tyres,40,55
+131,Visibility,20,24
+132,"Body, chassis, structure",3,5
+132,"Lamps, reflectors and electrical equipment",3,4
+132,Steering,1,1
+132,Visibility,1,1
+133,"Body, chassis, structure",107,149
+133,Brakes,182,324
+133,Identification of the vehicle,5,7
+133,"Lamps, reflectors and electrical equipment",123,191
+133,"Noise, emissions and leaks",44,60
+133,Road wheels,7,10
+133,Seat belts and supplementary restraint systems,36,50
+133,Steering,55,73
+133,Suspension,174,336
+133,Tyres,47,69
+133,Visibility,54,69
+134,"Body, chassis, structure",8,10
+134,Brakes,7,11
+134,"Lamps, reflectors and electrical equipment",10,13
+134,"Noise, emissions and leaks",1,1
+134,Seat belts and supplementary restraint systems,2,2
+134,Steering,3,4
+134,Suspension,10,17
+134,Tyres,3,4
+134,Visibility,4,8
+135,"Body, chassis, structure",37,54
+135,Brakes,63,105
+135,Identification of the vehicle,2,2
+135,"Lamps, reflectors and electrical equipment",39,48
+135,"Noise, emissions and leaks",8,9
+135,Seat belts and supplementary restraint systems,15,16
+135,Steering,12,13
+135,Suspension,60,110
+135,Tyres,13,21
+135,Visibility,17,21
+136,"Body, chassis, structure",4,8
+136,Brakes,8,13
+136,"Lamps, reflectors and electrical equipment",5,7
+136,"Noise, emissions and leaks",4,4
+136,Seat belts and supplementary restraint systems,4,5
+136,Speedometer and speed limiter,1,1
+136,Steering,1,1
+136,Suspension,9,19
+136,Tyres,2,2
+136,Visibility,3,3
+137,"Body, chassis, structure",2,2
+137,Brakes,13,19
+137,"Lamps, reflectors and electrical equipment",4,8
+137,"Noise, emissions and leaks",4,4
+137,Road wheels,2,4
+137,Seat belts and supplementary restraint systems,2,2
+137,Steering,2,2
+137,Suspension,3,4
+137,Tyres,17,27
+137,Visibility,6,8
+138,"Body, chassis, structure",1,1
+138,Brakes,6,10
+138,"Lamps, reflectors and electrical equipment",2,2
+138,"Noise, emissions and leaks",3,3
+138,Seat belts and supplementary restraint systems,2,2
+138,Suspension,8,10
+138,Tyres,7,12
+138,Visibility,7,10
+139,"Body, chassis, structure",11,14
+139,Brakes,48,85
+139,Identification of the vehicle,9,14
+139,"Lamps, reflectors and electrical equipment",14,18
+139,"Noise, emissions and leaks",25,29
+139,Road wheels,8,8
+139,Seat belts and supplementary restraint systems,28,28
+139,Suspension,43,64
+139,Tyres,66,87
+139,Visibility,24,32
+140,"Body, chassis, structure",8,9
+140,Brakes,34,51
+140,Identification of the vehicle,11,15
+140,"Lamps, reflectors and electrical equipment",13,20
+140,"Noise, emissions and leaks",7,7
+140,Road wheels,2,4
+140,Seat belts and supplementary restraint systems,20,20
+140,Suspension,38,47
+140,Tyres,49,74
+140,Visibility,12,15
+141,"Body, chassis, structure",4,4
+141,Brakes,32,38
+141,Identification of the vehicle,17,30
+141,"Lamps, reflectors and electrical equipment",24,30
+141,"Noise, emissions and leaks",8,8
+141,Road wheels,3,3
+141,Seat belts and supplementary restraint systems,5,5
+141,Suspension,7,10
+141,Tyres,112,147
+141,Visibility,40,48
+142,"Body, chassis, structure",4,4
+142,Brakes,23,33
+142,Identification of the vehicle,5,7
+142,"Lamps, reflectors and electrical equipment",16,21
+142,"Noise, emissions and leaks",8,9
+142,Road wheels,2,2
+142,Tyres,47,64
+142,Visibility,28,38
+143,Brakes,1,1
+143,"Lamps, reflectors and electrical equipment",1,1
+143,Visibility,1,1
+144,Brakes,3,6
+144,Seat belts and supplementary restraint systems,1,2
+144,Suspension,1,2
+145,"Body, chassis, structure",27,35
+145,Brakes,66,118
+145,Identification of the vehicle,10,13
+145,"Lamps, reflectors and electrical equipment",42,56
+145,"Noise, emissions and leaks",20,21
+145,Road wheels,3,3
+145,Seat belts and supplementary restraint systems,7,7
+145,Steering,4,4
+145,Suspension,63,109
+145,Tyres,49,70
+145,Visibility,16,16
+146,"Body, chassis, structure",10,11
+146,Brakes,32,75
+146,Identification of the vehicle,3,5
+146,"Lamps, reflectors and electrical equipment",17,25
+146,"Noise, emissions and leaks",7,7
+146,Road wheels,3,3
+146,Seat belts and supplementary restraint systems,7,7
+146,Steering,2,2
+146,Suspension,24,33
+146,Tyres,32,42
+146,Visibility,22,26
+147,"Body, chassis, structure",24,27
+147,Brakes,102,189
+147,Identification of the vehicle,8,12
+147,"Lamps, reflectors and electrical equipment",65,88
+147,"Noise, emissions and leaks",13,16
+147,Road wheels,12,13
+147,Seat belts and supplementary restraint systems,14,15
+147,Steering,13,14
+147,Suspension,82,142
+147,Tyres,91,127
+147,Visibility,26,35
+149,"Lamps, reflectors and electrical equipment",1,1
+150,"Body, chassis, structure",81,113
+150,Brakes,92,188
+150,Identification of the vehicle,12,19
+150,"Lamps, reflectors and electrical equipment",158,256
+150,"Noise, emissions and leaks",24,29
+150,Road wheels,9,9
+150,Seat belts and supplementary restraint systems,15,19
+150,Steering,13,17
+150,Suspension,92,179
+150,Tyres,81,117
+150,Visibility,38,44
+151,"Body, chassis, structure",5,6
+151,Brakes,6,11
+151,"Lamps, reflectors and electrical equipment",9,12
+151,"Noise, emissions and leaks",1,1
+151,Seat belts and supplementary restraint systems,3,3
+151,Suspension,7,8
+151,Tyres,3,4
+151,Visibility,4,7
+152,"Body, chassis, structure",23,26
+152,Brakes,54,115
+152,Identification of the vehicle,1,1
+152,"Lamps, reflectors and electrical equipment",73,103
+152,"Noise, emissions and leaks",14,14
+152,Road wheels,4,6
+152,Seat belts and supplementary restraint systems,8,9
+152,Steering,3,4
+152,Suspension,45,72
+152,Tyres,26,36
+152,Visibility,20,21
+153,"Lamps, reflectors and electrical equipment",1,3
+153,Seat belts and supplementary restraint systems,1,2
+154,"Body, chassis, structure",2,2
+154,Brakes,15,20
+154,Identification of the vehicle,4,8
+154,"Lamps, reflectors and electrical equipment",6,8
+154,"Noise, emissions and leaks",10,11
+154,Road wheels,2,2
+154,Seat belts and supplementary restraint systems,7,7
+154,Steering,1,1
+154,Suspension,6,6
+154,Tyres,34,52
+154,Visibility,7,8
+155,"Body, chassis, structure",5,5
+155,Brakes,11,20
+155,Identification of the vehicle,1,2
+155,"Lamps, reflectors and electrical equipment",8,16
+155,"Noise, emissions and leaks",7,7
+155,Seat belts and supplementary restraint systems,4,4
+155,Suspension,7,10
+155,Tyres,12,18
+155,Visibility,5,5
+156,"Body, chassis, structure",22,22
+156,Brakes,99,150
+156,Identification of the vehicle,25,42
+156,"Lamps, reflectors and electrical equipment",49,77
+156,"Noise, emissions and leaks",34,37
+156,Road wheels,8,11
+156,Seat belts and supplementary restraint systems,57,58
+156,Steering,1,2
+156,Suspension,90,123
+156,Tyres,107,142
+156,Visibility,64,78
+157,"Body, chassis, structure",14,16
+157,Brakes,51,92
+157,Identification of the vehicle,7,9
+157,"Lamps, reflectors and electrical equipment",37,55
+157,"Noise, emissions and leaks",19,20
+157,Road wheels,4,4
+157,Seat belts and supplementary restraint systems,57,58
+157,Suspension,65,91
+157,Tyres,63,93
+157,Visibility,36,45
+158,"Body, chassis, structure",2,2
+158,Brakes,13,16
+158,Identification of the vehicle,14,20
+158,"Lamps, reflectors and electrical equipment",32,46
+158,"Noise, emissions and leaks",8,8
+158,Seat belts and supplementary restraint systems,1,1
+158,Steering,3,3
+158,Suspension,3,5
+158,Tyres,47,62
+158,Visibility,67,80
+159,"Body, chassis, structure",1,1
+159,Brakes,25,33
+159,Identification of the vehicle,1,2
+159,"Lamps, reflectors and electrical equipment",21,30
+159,"Noise, emissions and leaks",14,14
+159,Road wheels,2,2
+159,Seat belts and supplementary restraint systems,5,5
+159,Steering,4,6
+159,Suspension,5,6
+159,Tyres,37,49
+159,Visibility,29,35
+160,"Body, chassis, structure",1,1
+160,"Noise, emissions and leaks",1,1
+160,Steering,1,2
+160,Suspension,1,1
+160,Tyres,1,2
+160,Visibility,2,3
+162,"Body, chassis, structure",2,2
+162,Brakes,22,40
+162,Identification of the vehicle,2,4
+162,"Lamps, reflectors and electrical equipment",13,17
+162,"Noise, emissions and leaks",7,7
+162,Road wheels,1,1
+162,Seat belts and supplementary restraint systems,2,2
+162,Steering,3,4
+162,Suspension,5,6
+162,Tyres,19,28
+162,Visibility,12,16
+163,"Noise, emissions and leaks",1,1
+164,"Body, chassis, structure",3,3
+164,Brakes,32,46
+164,Identification of the vehicle,12,22
+164,"Lamps, reflectors and electrical equipment",23,28
+164,"Noise, emissions and leaks",19,20
+164,Road wheels,2,2
+164,Seat belts and supplementary restraint systems,2,2
+164,Steering,21,23
+164,Suspension,8,8
+164,Tyres,46,79
+164,Visibility,28,32
+165,"Body, chassis, structure",2,2
+165,Brakes,1,1
+165,"Lamps, reflectors and electrical equipment",2,3
+165,"Noise, emissions and leaks",3,3
+165,Seat belts and supplementary restraint systems,1,5
+165,Steering,5,8
+165,Suspension,2,2
+165,Tyres,5,7
+165,Visibility,3,4
+166,"Body, chassis, structure",4,4
+166,Brakes,31,36
+166,Identification of the vehicle,7,12
+166,"Lamps, reflectors and electrical equipment",36,44
+166,"Noise, emissions and leaks",29,33
+166,Road wheels,2,2
+166,Seat belt installation check,1,1
+166,Seat belts and supplementary restraint systems,3,4
+166,Steering,1,1
+166,Suspension,11,11
+166,Tyres,113,149
+166,Visibility,13,16
+167,"Body, chassis, structure",3,3
+167,Brakes,16,21
+167,Identification of the vehicle,6,10
+167,"Lamps, reflectors and electrical equipment",17,23
+167,"Noise, emissions and leaks",23,25
+167,Road wheels,2,3
+167,Seat belts and supplementary restraint systems,4,4
+167,Steering,1,1
+167,Suspension,10,12
+167,Tyres,54,81
+167,Visibility,12,13
+168,Brakes,3,4
+168,"Noise, emissions and leaks",1,1
+168,Seat belts and supplementary restraint systems,1,1
+168,Suspension,2,2
+168,Tyres,3,4
+170,"Body, chassis, structure",2,3
+170,Brakes,1,1
+170,"Lamps, reflectors and electrical equipment",2,2
+170,Tyres,5,8
+170,Visibility,2,2
+171,"Body, chassis, structure",45,49
+171,Brakes,61,83
+171,Identification of the vehicle,8,10
+171,"Lamps, reflectors and electrical equipment",76,107
+171,"Noise, emissions and leaks",19,19
+171,Road wheels,10,15
+171,Seat belts and supplementary restraint systems,11,14
+171,Steering,5,5
+171,Suspension,101,126
+171,Tyres,58,74
+171,Visibility,37,39
+172,"Body, chassis, structure",21,24
+172,Brakes,48,68
+172,Identification of the vehicle,3,6
+172,"Lamps, reflectors and electrical equipment",62,88
+172,"Noise, emissions and leaks",14,15
+172,Road wheels,3,6
+172,Seat belts and supplementary restraint systems,2,2
+172,Steering,4,4
+172,Suspension,58,66
+172,Tyres,43,56
+172,Visibility,20,26
+173,"Body, chassis, structure",89,105
+173,Brakes,129,193
+173,Identification of the vehicle,12,17
+173,"Lamps, reflectors and electrical equipment",167,273
+173,"Noise, emissions and leaks",19,19
+173,Road wheels,17,26
+173,Seat belts and supplementary restraint systems,18,20
+173,Steering,5,5
+173,Suspension,187,247
+173,Tyres,118,162
+173,Visibility,63,76
+174,Tyres,1,1
+175,"Body, chassis, structure",7,7
+175,Brakes,56,73
+175,Identification of the vehicle,6,9
+175,"Lamps, reflectors and electrical equipment",40,54
+175,"Noise, emissions and leaks",49,56
+175,Road wheels,4,4
+175,Seat belts and supplementary restraint systems,5,5
+175,Steering,1,1
+175,Suspension,14,14
+175,Tyres,74,94
+175,Visibility,13,13
+176,"Body, chassis, structure",4,4
+176,Brakes,10,12
+176,"Lamps, reflectors and electrical equipment",12,14
+176,"Noise, emissions and leaks",10,10
+176,Seat belts and supplementary restraint systems,3,3
+176,Steering,1,1
+176,Suspension,6,7
+176,Tyres,17,29
+176,Visibility,6,6
+177,"Body, chassis, structure",40,42
+177,Brakes,195,293
+177,Identification of the vehicle,24,35
+177,"Lamps, reflectors and electrical equipment",175,257
+177,"Noise, emissions and leaks",155,169
+177,Road wheels,17,26
+177,Seat belts and supplementary restraint systems,15,15
+177,Steering,9,10
+177,Suspension,94,109
+177,Tyres,255,339
+177,Visibility,71,85
+178,"Body, chassis, structure",23,24
+178,Brakes,91,124
+178,Identification of the vehicle,6,10
+178,"Lamps, reflectors and electrical equipment",85,132
+178,"Noise, emissions and leaks",63,70
+178,Road wheels,6,9
+178,Seat belts and supplementary restraint systems,7,7
+178,Steering,2,2
+178,Suspension,47,56
+178,Tyres,115,153
+178,Visibility,41,44
+179,Seat belts and supplementary restraint systems,1,1
+180,Brakes,3,3
+180,"Lamps, reflectors and electrical equipment",3,5
+180,Suspension,3,6
+180,Tyres,16,23
+180,Visibility,3,3
+181,Brakes,1,2
+182,Brakes,6,16
+182,Identification of the vehicle,3,4
+182,"Lamps, reflectors and electrical equipment",3,3
+182,Road wheels,3,6
+182,Seat belts and supplementary restraint systems,1,1
+182,Tyres,12,17
+182,Visibility,6,6
+183,"Body, chassis, structure",1,1
+184,Suspension,1,1
+185,"Body, chassis, structure",42,50
+185,Brakes,60,111
+185,Identification of the vehicle,5,9
+185,"Lamps, reflectors and electrical equipment",57,85
+185,"Noise, emissions and leaks",14,14
+185,Road wheels,4,5
+185,Seat belts and supplementary restraint systems,13,13
+185,Steering,9,12
+185,Suspension,85,143
+185,Tyres,41,52
+185,Visibility,22,31
+186,"Body, chassis, structure",9,10
+186,Brakes,25,43
+186,Identification of the vehicle,2,2
+186,"Lamps, reflectors and electrical equipment",19,26
+186,"Noise, emissions and leaks",8,9
+186,Road wheels,1,1
+186,Seat belts and supplementary restraint systems,7,7
+186,Suspension,21,30
+186,Tyres,24,32
+186,Visibility,10,14
+187,"Body, chassis, structure",42,46
+187,Brakes,66,103
+187,Identification of the vehicle,7,12
+187,"Lamps, reflectors and electrical equipment",51,73
+187,"Noise, emissions and leaks",15,16
+187,Road wheels,1,2
+187,Seat belts and supplementary restraint systems,25,26
+187,Steering,6,6
+187,Suspension,86,123
+187,Tyres,63,82
+187,Visibility,21,22
+188,"Lamps, reflectors and electrical equipment",2,3
+188,"Noise, emissions and leaks",1,1
+188,Seat belts and supplementary restraint systems,1,1
+188,Visibility,1,1
+189,"Body, chassis, structure",125,177
+189,Brakes,180,315
+189,Buses and coaches supplementary tests,1,1
+189,Identification of the vehicle,5,6
+189,"Lamps, reflectors and electrical equipment",130,207
+189,"Noise, emissions and leaks",49,65
+189,Road wheels,6,9
+189,Seat belts and supplementary restraint systems,38,48
+189,Speedometer and speed limiter,1,1
+189,Steering,42,50
+189,Suspension,196,388
+189,Tyres,54,78
+189,Visibility,57,64
+190,"Body, chassis, structure",2,2
+190,Brakes,14,24
+190,Identification of the vehicle,1,2
+190,"Lamps, reflectors and electrical equipment",9,21
+190,"Noise, emissions and leaks",3,3
+190,Seat belts and supplementary restraint systems,4,6
+190,Steering,4,6
+190,Suspension,13,19
+190,Tyres,3,3
+190,Visibility,6,8
+191,"Body, chassis, structure",37,54
+191,Brakes,46,93
+191,Identification of the vehicle,2,4
+191,"Lamps, reflectors and electrical equipment",42,59
+191,"Noise, emissions and leaks",12,18
+191,Road wheels,3,6
+191,Seat belts and supplementary restraint systems,14,16
+191,Steering,17,24
+191,Suspension,54,97
+191,Tyres,23,29
+191,Visibility,17,20
+192,"Body, chassis, structure",8,10
+192,Brakes,9,17
+192,Identification of the vehicle,1,2
+192,"Lamps, reflectors and electrical equipment",6,8
+192,Road wheels,1,1
+192,Seat belts and supplementary restraint systems,3,5
+192,Steering,1,1
+192,Suspension,8,22
+192,Tyres,1,2
+192,Visibility,4,6
+193,"Body, chassis, structure",1,1
+193,Brakes,2,2
+193,"Lamps, reflectors and electrical equipment",4,6
+193,"Noise, emissions and leaks",2,2
+193,Road wheels,1,1
+193,Suspension,2,4
+193,Tyres,9,11
+193,Visibility,9,10
+194,Brakes,6,8
+194,"Lamps, reflectors and electrical equipment",4,4
+194,"Noise, emissions and leaks",1,1
+194,Seat belts and supplementary restraint systems,2,2
+194,Suspension,4,9
+194,Tyres,10,13
+194,Visibility,5,6
+195,"Body, chassis, structure",14,15
+195,Brakes,42,74
+195,Buses and coaches supplementary tests,1,1
+195,Identification of the vehicle,4,7
+195,"Lamps, reflectors and electrical equipment",15,24
+195,"Noise, emissions and leaks",12,12
+195,Road wheels,5,6
+195,Seat belts and supplementary restraint systems,22,22
+195,Steering,2,2
+195,Suspension,43,58
+195,Tyres,63,89
+195,Visibility,21,27
+196,"Body, chassis, structure",9,9
+196,Brakes,31,49
+196,Identification of the vehicle,5,8
+196,"Lamps, reflectors and electrical equipment",10,13
+196,"Noise, emissions and leaks",15,15
+196,Road wheels,4,6
+196,Seat belts and supplementary restraint systems,14,16
+196,Steering,1,1
+196,Suspension,42,68
+196,Tyres,42,53
+196,Visibility,15,18
+198,Brakes,12,19
+198,Identification of the vehicle,9,15
+198,"Lamps, reflectors and electrical equipment",23,32
+198,"Noise, emissions and leaks",4,4
+198,Road wheels,1,1
+198,Suspension,6,10
+198,Tyres,48,58
+198,Visibility,21,27
+199,Tyres,1,1
+200,"Body, chassis, structure",1,1
+200,Brakes,17,21
+200,Identification of the vehicle,6,11
+200,"Lamps, reflectors and electrical equipment",8,11
+200,"Noise, emissions and leaks",3,3
+200,Road wheels,4,4
+200,Seat belts and supplementary restraint systems,1,1
+200,Suspension,5,6
+200,Tyres,37,46
+200,Visibility,21,27
+201,Brakes,1,4
+201,Visibility,2,3
+202,"Lamps, reflectors and electrical equipment",1,1
+203,"Body, chassis, structure",31,39
+203,Brakes,57,104
+203,Identification of the vehicle,6,9
+203,"Lamps, reflectors and electrical equipment",44,62
+203,"Noise, emissions and leaks",10,13
+203,Road wheels,6,6
+203,Seat belts and supplementary restraint systems,23,26
+203,Steering,6,7
+203,Suspension,45,60
+203,Tyres,54,76
+203,Visibility,25,30
+204,"Body, chassis, structure",4,4
+204,Brakes,34,63
+204,Identification of the vehicle,1,1
+204,"Lamps, reflectors and electrical equipment",20,30
+204,"Noise, emissions and leaks",5,5
+204,Road wheels,2,7
+204,Seat belts and supplementary restraint systems,14,14
+204,Steering,1,1
+204,Suspension,30,44
+204,Tyres,25,41
+204,Visibility,8,10
+205,"Body, chassis, structure",44,49
+205,Brakes,118,209
+205,Identification of the vehicle,14,22
+205,"Lamps, reflectors and electrical equipment",61,81
+205,"Noise, emissions and leaks",16,16
+205,Road wheels,9,15
+205,Seat belts and supplementary restraint systems,34,36
+205,Steering,6,7
+205,Suspension,78,125
+205,Tyres,69,103
+205,Visibility,31,34
+208,"Body, chassis, structure",101,133
+208,Brakes,136,270
+208,Identification of the vehicle,8,13
+208,"Lamps, reflectors and electrical equipment",224,367
+208,"Noise, emissions and leaks",33,42
+208,Road wheels,9,11
+208,Seat belts and supplementary restraint systems,32,39
+208,Steering,17,26
+208,Suspension,142,226
+208,Tyres,81,112
+208,Visibility,53,62
+209,"Body, chassis, structure",2,2
+209,Brakes,3,4
+209,"Lamps, reflectors and electrical equipment",11,13
+209,"Noise, emissions and leaks",4,5
+209,Suspension,7,10
+209,Tyres,5,8
+209,Visibility,2,2
+210,"Body, chassis, structure",40,48
+210,Brakes,55,94
+210,Identification of the vehicle,6,9
+210,"Lamps, reflectors and electrical equipment",76,108
+210,"Noise, emissions and leaks",16,18
+210,Road wheels,8,13
+210,Seat belts and supplementary restraint systems,11,15
+210,Steering,11,11
+210,Suspension,50,81
+210,Tyres,36,51
+210,Visibility,18,20
+211,"Lamps, reflectors and electrical equipment",1,2
+211,Speedometer and speed limiter,1,1
+211,Suspension,1,1
+212,"Body, chassis, structure",2,2
+212,Brakes,17,26
+212,Identification of the vehicle,3,6
+212,"Lamps, reflectors and electrical equipment",6,11
+212,"Noise, emissions and leaks",4,4
+212,Road wheels,1,4
+212,Seat belts and supplementary restraint systems,2,2
+212,Suspension,5,6
+212,Tyres,17,20
+212,Visibility,20,23
+213,"Body, chassis, structure",1,2
+213,Brakes,9,15
+213,Identification of the vehicle,1,2
+213,"Lamps, reflectors and electrical equipment",8,10
+213,"Noise, emissions and leaks",5,5
+213,Road wheels,1,1
+213,Seat belts and supplementary restraint systems,4,4
+213,Suspension,12,21
+213,Tyres,11,15
+213,Visibility,3,3
+214,"Body, chassis, structure",20,23
+214,Brakes,83,125
+214,Identification of the vehicle,30,44
+214,"Lamps, reflectors and electrical equipment",42,60
+214,"Noise, emissions and leaks",38,39
+214,Road wheels,7,7
+214,Seat belts and supplementary restraint systems,42,42
+214,Steering,4,4
+214,Suspension,88,121
+214,Tyres,118,159
+214,Visibility,51,57
+215,"Body, chassis, structure",15,18
+215,Brakes,60,99
+215,Identification of the vehicle,14,22
+215,"Lamps, reflectors and electrical equipment",32,52
+215,"Noise, emissions and leaks",36,38
+215,Road wheels,2,3
+215,Seat belts and supplementary restraint systems,57,57
+215,Suspension,72,124
+215,Tyres,56,76
+215,Visibility,33,40
+216,Brakes,11,16
+216,Identification of the vehicle,2,4
+216,"Lamps, reflectors and electrical equipment",13,23
+216,"Noise, emissions and leaks",7,8
+216,Seat belts and supplementary restraint systems,3,3
+216,Steering,1,1
+216,Suspension,2,3
+216,Tyres,15,22
+216,Visibility,27,33
+218,Brakes,6,10
+218,Identification of the vehicle,3,5
+218,"Lamps, reflectors and electrical equipment",5,6
+218,"Noise, emissions and leaks",6,6
+218,Road wheels,3,6
+218,Seat belts and supplementary restraint systems,1,1
+218,Steering,7,7
+218,Suspension,4,5
+218,Tyres,15,26
+218,Visibility,21,25
+219,Visibility,1,1
+220,"Body, chassis, structure",2,2
+220,Brakes,8,13
+220,"Lamps, reflectors and electrical equipment",9,13
+220,"Noise, emissions and leaks",8,8
+220,Seat belts and supplementary restraint systems,1,1
+220,Steering,3,3
+220,Suspension,1,2
+220,Tyres,9,12
+220,Visibility,11,13
+221,"Body, chassis, structure",1,1
+221,Steering,1,1
+222,Brakes,45,73
+222,Identification of the vehicle,15,23
+222,"Lamps, reflectors and electrical equipment",32,40
+222,"Noise, emissions and leaks",29,30
+222,Road wheels,7,11
+222,Seat belts and supplementary restraint systems,6,6
+222,Steering,22,25
+222,Suspension,7,8
+222,Tyres,62,81
+222,Visibility,37,41
+223,Brakes,4,6
+223,"Lamps, reflectors and electrical equipment",6,10
+223,"Noise, emissions and leaks",5,5
+223,Road wheels,1,1
+223,Seat belts and supplementary restraint systems,1,1
+223,Steering,3,3
+223,Suspension,3,3
+223,Tyres,9,15
+223,Visibility,6,7
+224,"Body, chassis, structure",5,5
+224,Brakes,35,53
+224,Identification of the vehicle,3,5
+224,"Lamps, reflectors and electrical equipment",41,60
+224,"Noise, emissions and leaks",38,46
+224,Road wheels,2,2
+224,Seat belts and supplementary restraint systems,7,7
+224,Suspension,16,19
+224,Tyres,167,228
+224,Visibility,21,24
+225,"Body, chassis, structure",3,4
+225,Brakes,23,31
+225,Identification of the vehicle,6,11
+225,"Lamps, reflectors and electrical equipment",9,10
+225,"Noise, emissions and leaks",25,28
+225,Road wheels,2,2
+225,Seat belts and supplementary restraint systems,3,3
+225,Steering,1,1
+225,Suspension,13,13
+225,Tyres,65,87
+225,Visibility,10,12
+226,Brakes,1,1
+226,"Lamps, reflectors and electrical equipment",1,1
+226,"Noise, emissions and leaks",2,2
+226,Tyres,6,7
+227,Brakes,1,2
+227,"Lamps, reflectors and electrical equipment",3,5
+227,Seat belts and supplementary restraint systems,1,1
+227,Suspension,4,4
+227,Tyres,2,5
+227,Visibility,1,1
+228,"Body, chassis, structure",50,56
+228,Brakes,60,94
+228,Identification of the vehicle,8,12
+228,"Lamps, reflectors and electrical equipment",82,141
+228,"Noise, emissions and leaks",7,7
+228,Road wheels,4,4
+228,Seat belts and supplementary restraint systems,11,12
+228,Steering,1,1
+228,Suspension,91,121
+228,Tyres,51,63
+228,Visibility,32,35
+229,"Body, chassis, structure",23,24
+229,Brakes,42,59
+229,Identification of the vehicle,5,9
+229,"Lamps, reflectors and electrical equipment",63,110
+229,"Noise, emissions and leaks",9,11
+229,Road wheels,5,7
+229,Seat belts and supplementary restraint systems,3,3
+229,Suspension,39,45
+229,Tyres,54,68
+229,Visibility,20,28
+230,"Body, chassis, structure",69,82
+230,Brakes,116,177
+230,Identification of the vehicle,14,23
+230,"Lamps, reflectors and electrical equipment",136,209
+230,"Noise, emissions and leaks",22,25
+230,Road wheels,13,24
+230,Seat belts and supplementary restraint systems,6,6
+230,Steering,2,2
+230,Suspension,149,196
+230,Tyres,112,160
+230,Visibility,53,58
+231,"Body, chassis, structure",1,1
+231,Brakes,1,2
+231,Suspension,1,2
+233,"Body, chassis, structure",4,4
+233,Brakes,54,81
+233,Identification of the vehicle,7,10
+233,"Lamps, reflectors and electrical equipment",51,81
+233,"Noise, emissions and leaks",38,38
+233,Seat belts and supplementary restraint systems,6,6
+233,Steering,2,2
+233,Suspension,10,12
+233,Tyres,66,79
+233,Visibility,11,12
+234,Brakes,8,14
+234,"Lamps, reflectors and electrical equipment",12,18
+234,"Noise, emissions and leaks",8,14
+234,Road wheels,1,1
+234,Suspension,8,11
+234,Tyres,9,11
+234,Visibility,3,4
+235,"Body, chassis, structure",44,48
+235,Brakes,182,241
+235,Identification of the vehicle,7,11
+235,"Lamps, reflectors and electrical equipment",205,275
+235,"Noise, emissions and leaks",129,143
+235,Road wheels,19,33
+235,Seat belts and supplementary restraint systems,15,15
+235,Steering,6,8
+235,Suspension,86,102
+235,Tyres,253,338
+235,Visibility,62,75
+236,"Body, chassis, structure",16,17
+236,Brakes,95,140
+236,Identification of the vehicle,5,6
+236,"Lamps, reflectors and electrical equipment",84,128
+236,"Noise, emissions and leaks",52,54
+236,Road wheels,11,15
+236,Seat belts and supplementary restraint systems,7,7
+236,Steering,3,3
+236,Suspension,61,70
+236,Tyres,83,112
+236,Visibility,33,35
+238,Brakes,5,10
+238,Identification of the vehicle,4,7
+238,"Lamps, reflectors and electrical equipment",4,5
+238,"Noise, emissions and leaks",1,1
+238,Seat belts and supplementary restraint systems,2,2
+238,Tyres,17,22
+238,Visibility,10,16
+239,Brakes,10,16
+239,Identification of the vehicle,4,6
+239,"Lamps, reflectors and electrical equipment",5,7
+239,"Noise, emissions and leaks",5,5
+239,Road wheels,1,1
+239,Seat belts and supplementary restraint systems,1,1
+239,Suspension,1,1
+239,Tyres,13,19
+239,Visibility,8,12
+240,Brakes,1,1
+240,"Lamps, reflectors and electrical equipment",1,1
+240,Tyres,1,1
+241,"Body, chassis, structure",1,1
+241,Brakes,3,4
+241,"Lamps, reflectors and electrical equipment",1,2
+241,"Noise, emissions and leaks",1,1
+241,Seat belts and supplementary restraint systems,1,1
+241,Suspension,2,3
+241,Tyres,2,3
+242,"Body, chassis, structure",24,33
+242,Brakes,56,98
+242,Identification of the vehicle,8,13
+242,"Lamps, reflectors and electrical equipment",26,34
+242,"Noise, emissions and leaks",8,8
+242,Road wheels,4,8
+242,Seat belts and supplementary restraint systems,16,17
+242,Steering,6,6
+242,Suspension,66,99
+242,Tyres,44,58
+242,Visibility,18,22
+243,"Body, chassis, structure",10,10
+243,Brakes,27,39
+243,Identification of the vehicle,3,4
+243,"Lamps, reflectors and electrical equipment",16,24
+243,"Noise, emissions and leaks",5,6
+243,Road wheels,1,1
+243,Seat belts and supplementary restraint systems,6,6
+243,Steering,4,6
+243,Suspension,13,18
+243,Tyres,18,26
+243,Visibility,11,12
+244,"Body, chassis, structure",28,28
+244,Brakes,46,73
+244,Identification of the vehicle,6,10
+244,"Lamps, reflectors and electrical equipment",41,68
+244,"Noise, emissions and leaks",11,12
+244,Road wheels,3,3
+244,Seat belts and supplementary restraint systems,10,11
+244,Suspension,73,108
+244,Tyres,47,70
+244,Visibility,21,27
+245,"Body, chassis, structure",1,1
+245,Brakes,1,3
+245,"Lamps, reflectors and electrical equipment",1,1
+246,"Body, chassis, structure",2,4
+246,Brakes,1,1
+246,"Lamps, reflectors and electrical equipment",1,2
+246,"Noise, emissions and leaks",1,1
+246,Seat belts and supplementary restraint systems,2,4
+247,"Body, chassis, structure",122,195
+247,Brakes,145,256
+247,Buses and coaches supplementary tests,2,3
+247,Identification of the vehicle,12,16
+247,"Lamps, reflectors and electrical equipment",105,144
+247,"Noise, emissions and leaks",38,55
+247,Road wheels,9,10
+247,Seat belts and supplementary restraint systems,41,47
+247,Steering,35,43
+247,Suspension,176,317
+247,Tyres,57,75
+247,Visibility,50,59
+248,"Body, chassis, structure",6,7
+248,Brakes,10,15
+248,Identification of the vehicle,1,2
+248,"Lamps, reflectors and electrical equipment",6,8
+248,"Noise, emissions and leaks",6,7
+248,Road wheels,1,1
+248,Seat belts and supplementary restraint systems,5,6
+248,Steering,4,7
+248,Suspension,10,21
+248,Tyres,4,5
+248,Visibility,8,10
+249,"Body, chassis, structure",34,52
+249,Brakes,59,111
+249,Identification of the vehicle,3,4
+249,"Lamps, reflectors and electrical equipment",39,61
+249,"Noise, emissions and leaks",12,14
+249,Road wheels,2,2
+249,Seat belts and supplementary restraint systems,13,18
+249,Steering,19,24
+249,Suspension,56,101
+249,Tyres,21,30
+249,Visibility,18,22
+250,"Body, chassis, structure",6,8
+250,Brakes,4,7
+250,Identification of the vehicle,1,1
+250,"Lamps, reflectors and electrical equipment",1,1
+250,"Noise, emissions and leaks",2,2
+250,Seat belts and supplementary restraint systems,3,3
+250,Steering,1,1
+250,Suspension,5,5
+250,Tyres,2,5
+250,Visibility,3,3
+251,"Body, chassis, structure",1,1
+251,Brakes,5,5
+251,Identification of the vehicle,2,3
+251,"Lamps, reflectors and electrical equipment",2,2
+251,"Noise, emissions and leaks",2,2
+251,Road wheels,1,1
+251,Seat belts and supplementary restraint systems,4,4
+251,Suspension,6,7
+251,Tyres,13,16
+251,Visibility,3,5
+252,"Body, chassis, structure",1,1
+252,Brakes,8,14
+252,Identification of the vehicle,1,2
+252,"Lamps, reflectors and electrical equipment",4,5
+252,"Noise, emissions and leaks",3,3
+252,Road wheels,1,1
+252,Seat belts and supplementary restraint systems,6,6
+252,Steering,1,1
+252,Suspension,11,14
+252,Tyres,11,16
+252,Visibility,6,6
+253,"Body, chassis, structure",18,21
+253,Brakes,31,46
+253,Identification of the vehicle,9,15
+253,"Lamps, reflectors and electrical equipment",15,19
+253,"Noise, emissions and leaks",16,16
+253,Road wheels,4,5
+253,Seat belts and supplementary restraint systems,20,20
+253,Steering,1,1
+253,Suspension,39,55
+253,Tyres,48,66
+253,Visibility,16,21
+254,"Body, chassis, structure",8,8
+254,Brakes,28,47
+254,Identification of the vehicle,1,1
+254,"Lamps, reflectors and electrical equipment",10,14
+254,"Noise, emissions and leaks",12,12
+254,Road wheels,1,1
+254,Seat belts and supplementary restraint systems,15,15
+254,Suspension,38,59
+254,Tyres,40,48
+254,Visibility,8,9
+255,"Body, chassis, structure",3,3
+255,Brakes,23,29
+255,Identification of the vehicle,4,6
+255,"Lamps, reflectors and electrical equipment",15,24
+255,"Noise, emissions and leaks",10,10
+255,Road wheels,1,1
+255,Seat belts and supplementary restraint systems,1,1
+255,Suspension,3,5
+255,Tyres,62,83
+255,Visibility,38,46
+256,"Body, chassis, structure",2,2
+256,Brakes,12,14
+256,Identification of the vehicle,5,5
+256,"Lamps, reflectors and electrical equipment",13,16
+256,"Noise, emissions and leaks",2,2
+256,Steering,1,1
+256,Suspension,1,1
+256,Tyres,38,44
+256,Visibility,22,34
+257,"Noise, emissions and leaks",1,1
+258,Brakes,2,2
+258,Suspension,2,3
+258,Tyres,2,3
+259,"Body, chassis, structure",29,34
+259,Brakes,58,102
+259,Identification of the vehicle,3,5
+259,"Lamps, reflectors and electrical equipment",40,57
+259,"Noise, emissions and leaks",12,13
+259,Road wheels,10,12
+259,Seat belts and supplementary restraint systems,17,19
+259,Steering,8,8
+259,Suspension,39,66
+259,Tyres,37,49
+259,Visibility,16,18
+260,"Body, chassis, structure",11,14
+260,Brakes,34,50
+260,Identification of the vehicle,4,7
+260,"Lamps, reflectors and electrical equipment",8,9
+260,"Noise, emissions and leaks",6,6
+260,Road wheels,2,2
+260,Seat belts and supplementary restraint systems,8,8
+260,Suspension,22,33
+260,Tyres,34,44
+260,Visibility,8,10
+261,"Body, chassis, structure",34,41
+261,Brakes,114,221
+261,Identification of the vehicle,5,9
+261,"Lamps, reflectors and electrical equipment",64,92
+261,"Noise, emissions and leaks",17,21
+261,Road wheels,11,16
+261,Seat belts and supplementary restraint systems,29,32
+261,Steering,8,12
+261,Suspension,90,142
+261,Tyres,83,113
+261,Visibility,31,38
+263,Suspension,1,1
+264,"Body, chassis, structure",105,164
+264,Brakes,137,271
+264,Identification of the vehicle,16,23
+264,"Lamps, reflectors and electrical equipment",198,316
+264,"Noise, emissions and leaks",30,32
+264,Road wheels,16,18
+264,Seat belts and supplementary restraint systems,48,67
+264,Steering,21,25
+264,Suspension,129,211
+264,Tyres,87,117
+264,Visibility,74,89
+265,"Body, chassis, structure",4,4
+265,Brakes,5,12
+265,"Lamps, reflectors and electrical equipment",14,19
+265,"Noise, emissions and leaks",4,4
+265,Seat belts and supplementary restraint systems,1,1
+265,Suspension,11,16
+265,Tyres,8,9
+265,Visibility,4,4
+266,"Body, chassis, structure",41,56
+266,Brakes,60,139
+266,Buses and coaches supplementary tests,1,1
+266,Identification of the vehicle,3,5
+266,"Lamps, reflectors and electrical equipment",70,107
+266,"Noise, emissions and leaks",16,16
+266,Road wheels,9,15
+266,Seat belts and supplementary restraint systems,12,15
+266,Steering,8,8
+266,Suspension,59,104
+266,Tyres,41,54
+266,Visibility,20,20
+267,"Lamps, reflectors and electrical equipment",2,2
+267,Suspension,2,3
+267,Tyres,1,1
+268,"Body, chassis, structure",1,1
+268,Brakes,12,17
+268,Identification of the vehicle,3,5
+268,"Lamps, reflectors and electrical equipment",5,5
+268,"Noise, emissions and leaks",4,4
+268,Seat belts and supplementary restraint systems,4,4
+268,Steering,2,2
+268,Suspension,3,4
+268,Tyres,25,32
+268,Visibility,12,15
+269,"Body, chassis, structure",2,3
+269,Brakes,6,9
+269,"Lamps, reflectors and electrical equipment",4,5
+269,"Noise, emissions and leaks",5,6
+269,Road wheels,1,1
+269,Seat belts and supplementary restraint systems,5,5
+269,Suspension,13,19
+269,Tyres,5,8
+269,Visibility,6,7
+270,"Body, chassis, structure",22,23
+270,Brakes,93,142
+270,Identification of the vehicle,14,22
+270,"Lamps, reflectors and electrical equipment",50,69
+270,"Noise, emissions and leaks",34,40
+270,Road wheels,10,18
+270,Seat belts and supplementary restraint systems,37,37
+270,Suspension,110,173
+270,Tyres,100,129
+270,Visibility,56,67
+271,"Body, chassis, structure",11,13
+271,Brakes,64,91
+271,Identification of the vehicle,6,8
+271,"Lamps, reflectors and electrical equipment",27,42
+271,"Noise, emissions and leaks",23,26
+271,Road wheels,6,11
+271,Seat belts and supplementary restraint systems,35,35
+271,Steering,1,1
+271,Suspension,64,100
+271,Tyres,55,82
+271,Visibility,20,25
+272,"Body, chassis, structure",4,4
+272,Brakes,8,9
+272,Identification of the vehicle,3,4
+272,"Lamps, reflectors and electrical equipment",15,25
+272,"Noise, emissions and leaks",1,1
+272,Steering,2,2
+272,Suspension,2,2
+272,Tyres,15,20
+272,Visibility,23,30
+274,Brakes,11,16
+274,Identification of the vehicle,3,5
+274,"Lamps, reflectors and electrical equipment",15,22
+274,"Noise, emissions and leaks",6,6
+274,Road wheels,1,1
+274,Steering,1,1
+274,Suspension,1,1
+274,Tyres,20,26
+274,Visibility,12,13
+275,"Lamps, reflectors and electrical equipment",1,2
+275,Suspension,1,1
+276,"Body, chassis, structure",2,2
+276,Brakes,8,10
+276,Identification of the vehicle,6,9
+276,"Lamps, reflectors and electrical equipment",9,13
+276,"Noise, emissions and leaks",7,7
+276,Seat belts and supplementary restraint systems,2,2
+276,Steering,1,1
+276,Suspension,1,1
+276,Tyres,12,15
+276,Visibility,15,16
+277,Brakes,1,1
+277,Suspension,1,1
+277,Tyres,1,1
+278,"Body, chassis, structure",5,5
+278,Brakes,48,66
+278,Identification of the vehicle,7,12
+278,"Lamps, reflectors and electrical equipment",24,34
+278,"Noise, emissions and leaks",28,31
+278,Road wheels,6,6
+278,Seat belts and supplementary restraint systems,6,7
+278,Steering,22,27
+278,Suspension,12,15
+278,Tyres,75,110
+278,Visibility,51,56
+279,Brakes,1,1
+279,Identification of the vehicle,2,4
+279,"Lamps, reflectors and electrical equipment",4,7
+279,"Noise, emissions and leaks",5,5
+279,Road wheels,1,1
+279,Seat belts and supplementary restraint systems,2,2
+279,Steering,10,16
+279,Tyres,13,21
+279,Visibility,5,6
+280,"Body, chassis, structure",7,7
+280,Brakes,55,70
+280,Identification of the vehicle,7,10
+280,"Lamps, reflectors and electrical equipment",21,27
+280,"Noise, emissions and leaks",51,60
+280,Road wheels,2,4
+280,Seat belts and supplementary restraint systems,6,6
+280,Steering,2,2
+280,Suspension,13,15
+280,Tyres,212,286
+280,Visibility,39,53
+282,"Body, chassis, structure",4,4
+282,Brakes,29,37
+282,Identification of the vehicle,1,2
+282,"Lamps, reflectors and electrical equipment",25,31
+282,"Noise, emissions and leaks",23,25
+282,Road wheels,2,2
+282,Seat belts and supplementary restraint systems,3,3
+282,Suspension,5,5
+282,Tyres,86,120
+282,Visibility,16,17
+283,Tyres,3,4
+283,Visibility,1,2
+285,"Body, chassis, structure",2,2
+285,Brakes,6,7
+285,"Lamps, reflectors and electrical equipment",4,6
+285,Tyres,3,4
+285,Visibility,1,1
+286,"Body, chassis, structure",49,56
+286,Brakes,67,104
+286,Identification of the vehicle,5,8
+286,"Lamps, reflectors and electrical equipment",85,152
+286,"Noise, emissions and leaks",10,10
+286,Road wheels,12,19
+286,Seat belts and supplementary restraint systems,6,6
+286,Steering,5,6
+286,Suspension,99,141
+286,Tyres,64,88
+286,Visibility,37,43
+287,"Body, chassis, structure",21,25
+287,Brakes,49,59
+287,Identification of the vehicle,5,10
+287,"Lamps, reflectors and electrical equipment",50,76
+287,"Noise, emissions and leaks",6,6
+287,Road wheels,3,6
+287,Seat belts and supplementary restraint systems,4,4
+287,Steering,4,4
+287,Suspension,48,63
+287,Tyres,60,78
+287,Visibility,36,42
+288,"Body, chassis, structure",81,91
+288,Brakes,107,150
+288,Identification of the vehicle,15,23
+288,"Lamps, reflectors and electrical equipment",169,287
+288,"Noise, emissions and leaks",28,28
+288,Road wheels,15,25
+288,Seat belts and supplementary restraint systems,10,10
+288,Steering,7,8
+288,Suspension,194,247
+288,Tyres,122,176
+288,Visibility,52,69
+289,Tyres,1,1
+290,"Body, chassis, structure",5,5
+290,Brakes,49,74
+290,Identification of the vehicle,5,6
+290,"Lamps, reflectors and electrical equipment",58,79
+290,"Noise, emissions and leaks",50,56
+290,Seat belts and supplementary restraint systems,4,5
+290,Steering,2,2
+290,Suspension,23,24
+290,Tyres,124,170
+290,Visibility,24,32
+291,"Body, chassis, structure",3,3
+291,Brakes,9,14
+291,"Lamps, reflectors and electrical equipment",14,26
+291,"Noise, emissions and leaks",10,10
+291,Road wheels,3,3
+291,Steering,3,3
+291,Suspension,8,11
+291,Tyres,9,13
+291,Visibility,10,12
+292,"Body, chassis, structure",41,43
+292,Brakes,208,291
+292,Identification of the vehicle,17,30
+292,"Lamps, reflectors and electrical equipment",222,323
+292,"Noise, emissions and leaks",169,195
+292,Road wheels,14,14
+292,Seat belts and supplementary restraint systems,21,23
+292,Steering,9,10
+292,Suspension,118,139
+292,Tyres,306,415
+292,Visibility,104,121
+293,"Body, chassis, structure",19,20
+293,Brakes,99,143
+293,Identification of the vehicle,6,9
+293,"Lamps, reflectors and electrical equipment",88,138
+293,"Noise, emissions and leaks",55,60
+293,Road wheels,13,22
+293,Seat belts and supplementary restraint systems,11,14
+293,Steering,5,5
+293,Suspension,67,79
+293,Tyres,120,178
+293,Visibility,32,36
+295,"Body, chassis, structure",1,1
+295,Brakes,5,8
+295,Identification of the vehicle,1,2
+295,"Lamps, reflectors and electrical equipment",1,1
+295,"Noise, emissions and leaks",2,2
+295,Road wheels,1,2
+295,Seat belts and supplementary restraint systems,1,1
+295,Suspension,2,3
+295,Tyres,29,38
+295,Visibility,10,14
+296,Tyres,1,1
+297,"Body, chassis, structure",2,2
+297,Brakes,9,10
+297,Identification of the vehicle,3,5
+297,"Noise, emissions and leaks",2,2
+297,Road wheels,2,2
+297,Suspension,2,2
+297,Tyres,11,13
+297,Visibility,13,16
+298,Brakes,1,1
+298,Identification of the vehicle,1,2
+299,"Body, chassis, structure",1,1
+299,"Lamps, reflectors and electrical equipment",1,1
+299,"Noise, emissions and leaks",1,1
+299,Tyres,3,4
+300,"Body, chassis, structure",38,49
+300,Brakes,62,99
+300,Buses and coaches supplementary tests,1,1
+300,Identification of the vehicle,4,5
+300,"Lamps, reflectors and electrical equipment",41,59
+300,"Noise, emissions and leaks",22,26
+300,Road wheels,3,5
+300,Seat belts and supplementary restraint systems,13,13
+300,Steering,8,9
+300,Suspension,93,133
+300,Tyres,41,58
+300,Visibility,15,15
+301,"Body, chassis, structure",6,9
+301,Brakes,24,45
+301,Identification of the vehicle,3,5
+301,"Lamps, reflectors and electrical equipment",14,24
+301,"Noise, emissions and leaks",5,5
+301,Road wheels,3,6
+301,Seat belts and supplementary restraint systems,9,9
+301,Steering,1,1
+301,Suspension,25,35
+301,Tyres,19,24
+301,Visibility,8,10
+302,"Body, chassis, structure",32,36
+302,Brakes,64,106
+302,Identification of the vehicle,2,4
+302,"Lamps, reflectors and electrical equipment",53,68
+302,"Noise, emissions and leaks",13,13
+302,Road wheels,4,5
+302,Seat belts and supplementary restraint systems,20,21
+302,Steering,4,5
+302,Suspension,86,128
+302,Tyres,52,73
+302,Visibility,25,28
+303,Brakes,1,1
+304,Steering,1,1
+304,Suspension,2,2
+304,Visibility,1,1
+305,"Body, chassis, structure",124,177
+305,Brakes,168,315
+305,Identification of the vehicle,5,8
+305,"Lamps, reflectors and electrical equipment",134,195
+305,"Noise, emissions and leaks",44,56
+305,Road wheels,9,15
+305,Seat belts and supplementary restraint systems,42,59
+305,Speedometer and speed limiter,1,1
+305,Steering,54,62
+305,Suspension,198,380
+305,Tyres,64,84
+305,Visibility,76,99
+306,"Body, chassis, structure",5,5
+306,Brakes,11,21
+306,"Lamps, reflectors and electrical equipment",4,6
+306,Seat belts and supplementary restraint systems,3,3
+306,Steering,3,3
+306,Suspension,7,13
+306,Tyres,5,7
+306,Visibility,5,6
+307,"Body, chassis, structure",31,49
+307,Brakes,48,82
+307,Identification of the vehicle,2,4
+307,"Lamps, reflectors and electrical equipment",35,54
+307,"Noise, emissions and leaks",14,21
+307,Seat belts and supplementary restraint systems,13,17
+307,Steering,15,21
+307,Suspension,70,125
+307,Tyres,20,29
+307,Visibility,23,32
+308,"Body, chassis, structure",4,7
+308,Brakes,13,22
+308,"Lamps, reflectors and electrical equipment",9,11
+308,"Noise, emissions and leaks",3,3
+308,Road wheels,1,1
+308,Seat belts and supplementary restraint systems,5,7
+308,Steering,5,7
+308,Suspension,16,28
+308,Tyres,3,3
+308,Visibility,5,7
+309,"Body, chassis, structure",4,4
+309,Brakes,10,12
+309,"Lamps, reflectors and electrical equipment",2,2
+309,"Noise, emissions and leaks",3,4
+309,Seat belts and supplementary restraint systems,1,1
+309,Suspension,2,3
+309,Tyres,17,22
+309,Visibility,11,13
+310,"Body, chassis, structure",2,2
+310,Brakes,11,19
+310,"Lamps, reflectors and electrical equipment",3,4
+310,"Noise, emissions and leaks",2,2
+310,Seat belts and supplementary restraint systems,5,5
+310,Suspension,9,13
+310,Tyres,7,10
+310,Visibility,3,5
+311,"Body, chassis, structure",11,12
+311,Brakes,45,74
+311,Identification of the vehicle,10,13
+311,"Lamps, reflectors and electrical equipment",7,12
+311,"Noise, emissions and leaks",17,17
+311,Road wheels,2,2
+311,Seat belts and supplementary restraint systems,15,15
+311,Steering,1,1
+311,Suspension,44,65
+311,Tyres,68,87
+311,Visibility,23,30
+312,"Body, chassis, structure",6,8
+312,Brakes,26,49
+312,Identification of the vehicle,11,20
+312,"Lamps, reflectors and electrical equipment",9,11
+312,"Noise, emissions and leaks",19,21
+312,Road wheels,6,7
+312,Seat belts and supplementary restraint systems,17,17
+312,Suspension,45,62
+312,Tyres,46,62
+312,Visibility,18,22
+313,"Body, chassis, structure",5,5
+313,Brakes,22,26
+313,Identification of the vehicle,13,22
+313,"Lamps, reflectors and electrical equipment",26,41
+313,"Noise, emissions and leaks",12,12
+313,Seat belts and supplementary restraint systems,3,3
+313,Suspension,6,10
+313,Tyres,112,144
+313,Visibility,59,74
+315,"Body, chassis, structure",1,1
+315,Brakes,17,27
+315,Identification of the vehicle,3,5
+315,"Lamps, reflectors and electrical equipment",13,20
+315,"Noise, emissions and leaks",6,6
+315,Road wheels,3,6
+315,Suspension,2,2
+315,Tyres,42,65
+315,Visibility,34,46
+316,Brakes,2,2
+316,Tyres,2,2
+316,Visibility,1,1
+317,Brakes,2,4
+317,"Lamps, reflectors and electrical equipment",1,2
+317,"Noise, emissions and leaks",1,1
+317,Seat belts and supplementary restraint systems,1,1
+317,Suspension,1,1
+317,Tyres,5,6
+317,Visibility,1,1
+318,"Body, chassis, structure",18,20
+318,Brakes,47,75
+318,Identification of the vehicle,8,11
+318,"Lamps, reflectors and electrical equipment",46,60
+318,"Noise, emissions and leaks",7,7
+318,Road wheels,4,6
+318,Seat belts and supplementary restraint systems,13,14
+318,Steering,9,10
+318,Suspension,43,66
+318,Tyres,47,68
+318,Visibility,17,19
+319,"Body, chassis, structure",14,16
+319,Brakes,38,76
+319,Identification of the vehicle,2,2
+319,"Lamps, reflectors and electrical equipment",13,16
+319,"Noise, emissions and leaks",6,6
+319,Road wheels,2,3
+319,Seat belts and supplementary restraint systems,10,10
+319,Suspension,33,44
+319,Tyres,30,38
+319,Visibility,15,19
+320,"Body, chassis, structure",37,42
+320,Brakes,93,174
+320,Identification of the vehicle,12,19
+320,"Lamps, reflectors and electrical equipment",65,81
+320,"Noise, emissions and leaks",22,23
+320,Road wheels,13,25
+320,Seat belts and supplementary restraint systems,31,32
+320,Steering,7,7
+320,Suspension,99,140
+320,Tyres,93,119
+320,Visibility,35,38
+323,"Body, chassis, structure",97,126
+323,Brakes,132,239
+323,Identification of the vehicle,4,6
+323,"Lamps, reflectors and electrical equipment",187,313
+323,"Noise, emissions and leaks",41,48
+323,Road wheels,12,16
+323,Seat belts and supplementary restraint systems,43,62
+323,Steering,24,29
+323,Suspension,134,224
+323,Tyres,75,106
+323,Visibility,46,51
+324,"Body, chassis, structure",4,4
+324,Brakes,13,24
+324,Identification of the vehicle,1,2
+324,"Lamps, reflectors and electrical equipment",8,16
+324,"Noise, emissions and leaks",4,4
+324,Seat belts and supplementary restraint systems,1,1
+324,Steering,3,3
+324,Suspension,8,15
+324,Tyres,4,5
+324,Visibility,4,6
+325,"Body, chassis, structure",33,44
+325,Brakes,52,112
+325,Identification of the vehicle,5,7
+325,"Lamps, reflectors and electrical equipment",64,90
+325,"Noise, emissions and leaks",17,19
+325,Road wheels,5,7
+325,Seat belts and supplementary restraint systems,7,7
+325,Steering,10,12
+325,Suspension,50,82
+325,Tyres,35,45
+325,Visibility,18,20
+327,"Body, chassis, structure",5,6
+327,Brakes,20,30
+327,Identification of the vehicle,1,2
+327,"Lamps, reflectors and electrical equipment",12,17
+327,"Noise, emissions and leaks",8,8
+327,Road wheels,1,1
+327,Seat belts and supplementary restraint systems,2,2
+327,Steering,1,1
+327,Suspension,7,9
+327,Tyres,25,34
+327,Visibility,23,31
+328,"Body, chassis, structure",2,2
+328,Brakes,2,2
+328,Identification of the vehicle,1,2
+328,"Lamps, reflectors and electrical equipment",10,13
+328,"Noise, emissions and leaks",8,9
+328,Road wheels,1,1
+328,Seat belts and supplementary restraint systems,8,8
+328,Steering,1,1
+328,Suspension,11,21
+328,Tyres,10,13
+328,Visibility,6,7
+329,"Body, chassis, structure",23,25
+329,Brakes,92,145
+329,Identification of the vehicle,22,40
+329,"Lamps, reflectors and electrical equipment",62,87
+329,"Noise, emissions and leaks",45,48
+329,Road wheels,14,17
+329,Seat belts and supplementary restraint systems,41,41
+329,Steering,5,5
+329,Suspension,102,135
+329,Tyres,133,183
+329,Visibility,71,92
+330,"Body, chassis, structure",11,15
+330,Brakes,55,98
+330,Identification of the vehicle,12,18
+330,"Lamps, reflectors and electrical equipment",42,60
+330,"Noise, emissions and leaks",15,16
+330,Road wheels,7,7
+330,Seat belts and supplementary restraint systems,33,33
+330,Steering,2,3
+330,Suspension,76,119
+330,Tyres,64,89
+330,Visibility,21,26
+332,"Body, chassis, structure",4,4
+332,Brakes,9,14
+332,Identification of the vehicle,10,15
+332,"Lamps, reflectors and electrical equipment",30,44
+332,"Noise, emissions and leaks",4,4
+332,Road wheels,2,2
+332,Seat belts and supplementary restraint systems,2,2
+332,Steering,8,11
+332,Suspension,2,3
+332,Tyres,45,58
+332,Visibility,62,73
+333,"Body, chassis, structure",1,1
+333,Brakes,8,12
+333,Identification of the vehicle,2,3
+333,"Lamps, reflectors and electrical equipment",12,16
+333,"Noise, emissions and leaks",7,7
+333,Road wheels,1,1
+333,Seat belts and supplementary restraint systems,3,3
+333,Steering,3,3
+333,Suspension,2,3
+333,Tyres,23,34
+333,Visibility,42,53
+334,"Lamps, reflectors and electrical equipment",1,1
+334,Suspension,1,1
+334,Tyres,1,2
+334,Visibility,1,1
+335,"Body, chassis, structure",1,1
+335,Brakes,18,28
+335,Identification of the vehicle,4,7
+335,"Lamps, reflectors and electrical equipment",18,27
+335,"Noise, emissions and leaks",7,8
+335,Seat belts and supplementary restraint systems,1,1
+335,Steering,7,9
+335,Suspension,2,3
+335,Tyres,21,27
+335,Visibility,18,20
+336,Brakes,1,1
+336,Road wheels,1,2
+336,Steering,1,1
+336,Suspension,1,1
+337,"Body, chassis, structure",6,6
+337,Brakes,58,98
+337,Identification of the vehicle,12,19
+337,"Lamps, reflectors and electrical equipment",23,36
+337,"Noise, emissions and leaks",43,43
+337,Road wheels,5,5
+337,Seat belts and supplementary restraint systems,4,4
+337,Steering,38,52
+337,Suspension,23,29
+337,Tyres,99,138
+337,Visibility,48,55
+338,"Body, chassis, structure",1,1
+338,Brakes,11,16
+338,Identification of the vehicle,1,2
+338,"Lamps, reflectors and electrical equipment",7,9
+338,"Noise, emissions and leaks",5,5
+338,Road wheels,5,8
+338,Seat belts and supplementary restraint systems,2,4
+338,Steering,16,19
+338,Suspension,6,7
+338,Tyres,12,15
+338,Visibility,7,7
+339,Brakes,1,1
